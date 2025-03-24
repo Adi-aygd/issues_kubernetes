@@ -1,0 +1,1001 @@
+timestamp,pod_name,namespace,status,restart_count,cpu_usage,memory_usage,logs
+2025-02-22 19:42:19.287784,pod-18,kube-system,Running,10,1.8657126979165795,399,Error: Process exited with code 1
+2025-02-22 20:07:19.287784,pod-7,kube-system,Running,9,0.6462848092481424,213,Error: Process exited with code 1
+2025-02-22 20:13:19.287784,pod-4,kube-system,Running,1,0.28746046585005586,437,Error: Process exited with code 1
+2025-02-22 20:44:19.287784,pod-18,monitoring,Running,6,0.6054041574542718,357,Error: Process exited with code 1
+2025-02-22 21:46:19.287784,pod-12,monitoring,CrashLoopBackOff,5,0.19570759031020168,97,Normal operation
+2025-02-22 23:21:19.287784,pod-9,kube-system,Running,0,1.031506010653689,252,Error: Process exited with code 1
+2025-02-22 23:34:19.287784,pod-2,default,Failed,2,1.6303602648288755,228,Normal operation
+2025-02-22 23:48:19.287784,pod-14,monitoring,CrashLoopBackOff,6,0.38826414934441644,412,Normal operation
+2025-02-23 00:12:19.287784,pod-15,monitoring,CrashLoopBackOff,7,1.0471309535398388,494,Error: Process exited with code 1
+2025-02-23 00:20:19.287784,pod-13,monitoring,Failed,9,1.6776814233374393,135,Normal operation
+2025-02-23 02:15:19.287784,pod-11,monitoring,CrashLoopBackOff,4,2.4722184097277067,143,Normal operation
+2025-02-23 02:22:19.287784,pod-4,kube-system,Running,4,0.33086972911582235,265,Normal operation
+2025-02-23 03:50:19.287784,pod-15,default,Running,1,1.7190929326144293,334,Normal operation
+2025-02-23 04:10:19.287784,pod-16,monitoring,Running,3,2.1066266685757786,65,Error: Process exited with code 1
+2025-02-23 04:24:19.287784,pod-13,monitoring,Running,5,0.5714644994980018,351,Normal operation
+2025-02-23 04:45:19.287784,pod-7,kube-system,Running,4,1.5771394155131169,462,Error: Process exited with code 1
+2025-02-23 05:46:19.287784,pod-9,monitoring,Running,3,1.9328811610535772,371,Normal operation
+2025-02-23 06:11:19.287784,pod-16,kube-system,Running,10,2.4683619887934016,107,Error: Process exited with code 1
+2025-02-23 07:53:19.287784,pod-7,kube-system,Running,6,1.3781292177212476,237,Error: Process exited with code 1
+2025-02-23 09:31:19.287784,pod-5,default,Failed,1,1.2343085398731182,256,Normal operation
+2025-02-23 11:31:19.287784,pod-1,default,Running,10,0.6461677658968118,89,Error: Process exited with code 1
+2025-02-23 11:38:19.287784,pod-19,kube-system,CrashLoopBackOff,0,0.7560109634864602,281,Error: Process exited with code 1
+2025-02-23 11:54:19.287784,pod-3,monitoring,Running,5,1.9473585800313382,417,Error: Process exited with code 1
+2025-02-23 12:18:19.287784,pod-13,monitoring,Running,6,1.4389273337275734,473,Error: Process exited with code 1
+2025-02-23 12:31:19.287784,pod-20,kube-system,CrashLoopBackOff,6,1.4027022457848086,374,Normal operation
+2025-02-23 12:35:19.287784,pod-17,monitoring,Running,4,0.7998897158622227,169,Normal operation
+2025-02-23 12:42:19.287784,pod-3,kube-system,Failed,5,1.5265498471138403,215,Error: Process exited with code 1
+2025-02-23 14:11:19.287784,pod-12,default,CrashLoopBackOff,2,1.7207604070086842,418,Error: Process exited with code 1
+2025-02-23 14:42:19.287784,pod-14,monitoring,Running,8,0.7900613296783293,86,Error: Process exited with code 1
+2025-02-23 15:27:19.287784,pod-3,default,Running,8,1.7929124563331604,413,Error: Process exited with code 1
+2025-02-23 17:33:19.287784,pod-17,kube-system,Running,5,1.0781247555987403,321,Normal operation
+2025-02-23 17:48:19.287784,pod-1,kube-system,Running,4,1.808215587899117,291,Error: Process exited with code 1
+2025-02-23 18:31:19.287784,pod-3,monitoring,Failed,2,1.0289616924478042,324,Error: Process exited with code 1
+2025-02-23 18:33:19.287784,pod-1,monitoring,CrashLoopBackOff,0,2.4705703082269137,207,Error: Process exited with code 1
+2025-02-23 18:44:19.287784,pod-5,kube-system,Running,1,0.22791393946112928,218,Normal operation
+2025-02-23 18:45:19.287784,pod-17,monitoring,Running,2,1.902182816932679,473,Error: Process exited with code 1
+2025-02-23 18:49:19.287784,pod-12,kube-system,Running,5,0.4899053252649568,260,Normal operation
+2025-02-23 20:20:19.287784,pod-16,monitoring,Running,4,0.6767415906989149,299,Error: Process exited with code 1
+2025-02-23 21:59:19.287784,pod-8,kube-system,CrashLoopBackOff,0,0.7413558290655056,201,Normal operation
+2025-02-23 22:41:19.287784,pod-3,default,Running,1,0.41252883632426607,377,Normal operation
+2025-02-23 23:52:19.287784,pod-2,monitoring,Running,8,0.19153455407897513,396,Normal operation
+2025-02-23 23:59:19.287784,pod-3,monitoring,Running,4,1.844899301451415,493,Normal operation
+2025-02-24 00:13:19.287784,pod-9,monitoring,Failed,4,2.3118088624667497,418,Normal operation
+2025-02-24 00:32:19.287784,pod-8,monitoring,Running,0,0.7057654553385331,207,Error: Process exited with code 1
+2025-02-24 00:32:19.287784,pod-6,kube-system,Running,9,0.20191078549572622,59,Normal operation
+2025-02-24 01:33:19.287784,pod-14,default,CrashLoopBackOff,4,2.240773140388031,261,Normal operation
+2025-02-24 01:38:19.287784,pod-13,default,Running,5,1.1935200583788728,393,Normal operation
+2025-02-24 02:46:19.287784,pod-17,default,Running,7,0.7153817091170332,84,Error: Process exited with code 1
+2025-02-24 03:40:19.287784,pod-5,kube-system,Failed,2,0.8223715593807316,187,Error: Process exited with code 1
+2025-02-24 04:03:19.287784,pod-12,kube-system,Pending,5,2.4933829696551273,496,Error: Process exited with code 1
+2025-02-24 04:40:19.287784,pod-7,default,Running,8,1.4372461058154384,258,Normal operation
+2025-02-24 04:42:19.287784,pod-9,monitoring,Running,7,1.764140930061713,278,Error: Process exited with code 1
+2025-02-24 05:07:19.287784,pod-7,monitoring,Running,0,2.1739799098546078,262,Normal operation
+2025-02-24 05:28:19.287784,pod-5,kube-system,Running,5,1.4147521397700455,76,Normal operation
+2025-02-24 06:40:19.287784,pod-17,default,Failed,4,1.0791773164594467,466,Error: Process exited with code 1
+2025-02-24 06:46:19.287784,pod-8,default,Running,2,1.3843957092680328,308,Normal operation
+2025-02-24 08:06:19.287784,pod-8,kube-system,Running,3,0.6998089050211511,162,Normal operation
+2025-02-24 08:36:19.287784,pod-3,monitoring,Running,4,1.1658386884906198,404,Error: Process exited with code 1
+2025-02-24 09:52:19.287784,pod-3,kube-system,Running,6,0.631394357148652,483,Error: Process exited with code 1
+2025-02-24 10:09:19.287784,pod-7,monitoring,Failed,2,0.9078012143225489,134,Normal operation
+2025-02-24 11:37:19.287784,pod-19,monitoring,Running,6,2.2778532549002084,491,Error: Process exited with code 1
+2025-02-24 11:38:19.287784,pod-4,monitoring,Running,6,2.3268194634468644,221,Normal operation
+2025-02-24 11:55:19.287784,pod-1,monitoring,Running,7,2.4244408965430813,476,Normal operation
+2025-02-24 12:48:19.287784,pod-5,kube-system,CrashLoopBackOff,9,0.7165115722170008,150,Normal operation
+2025-02-24 13:31:19.287784,pod-2,kube-system,Running,6,1.7241713985104685,147,Error: Process exited with code 1
+2025-02-24 14:42:19.287784,pod-15,monitoring,Running,2,0.8833339900071725,468,Error: Process exited with code 1
+2025-02-24 15:36:19.287784,pod-18,kube-system,Pending,0,1.9532588293521966,386,Error: Process exited with code 1
+2025-02-24 15:45:19.287784,pod-14,default,Running,10,2.3060903824744607,499,Error: Process exited with code 1
+2025-02-24 16:46:19.287784,pod-15,kube-system,CrashLoopBackOff,10,1.3687038195614152,183,Normal operation
+2025-02-24 17:35:19.287784,pod-5,monitoring,Running,8,1.1195506922422895,292,Error: Process exited with code 1
+2025-02-24 17:38:19.287784,pod-14,kube-system,Running,9,1.541673384632044,127,Normal operation
+2025-02-24 17:39:19.287784,pod-9,default,Failed,0,0.749514970819879,212,Normal operation
+2025-02-24 18:43:19.287784,pod-11,monitoring,Running,2,0.8891213250211695,410,Normal operation
+2025-02-24 20:15:19.287784,pod-6,kube-system,CrashLoopBackOff,7,0.9843075449954982,392,Error: Process exited with code 1
+2025-02-24 20:17:19.287784,pod-20,kube-system,Running,10,0.9565438957673895,133,Normal operation
+2025-02-24 21:14:19.287784,pod-12,kube-system,Running,2,0.18160149128625802,399,Normal operation
+2025-02-24 21:34:19.287784,pod-11,default,Running,1,0.653498655860239,204,Error: Process exited with code 1
+2025-02-24 22:19:19.287784,pod-15,default,CrashLoopBackOff,5,0.5233534741528187,391,Error: Process exited with code 1
+2025-02-24 22:58:19.287784,pod-7,default,Running,9,1.79424646496281,173,Normal operation
+2025-02-25 01:04:19.287784,pod-20,monitoring,Running,3,1.3779919970021999,311,Normal operation
+2025-02-25 01:52:19.287784,pod-7,kube-system,CrashLoopBackOff,3,2.317355556008413,390,Normal operation
+2025-02-25 03:33:19.287784,pod-4,default,CrashLoopBackOff,9,2.2972033693034377,490,Normal operation
+2025-02-25 08:01:19.287784,pod-17,monitoring,Running,7,1.4949782633100874,75,Error: Process exited with code 1
+2025-02-25 08:48:19.287784,pod-12,monitoring,Running,7,1.9918454466828328,473,Error: Process exited with code 1
+2025-02-25 10:05:19.287784,pod-12,default,Running,0,1.596838367662792,353,Normal operation
+2025-02-25 11:18:19.287784,pod-10,kube-system,CrashLoopBackOff,10,0.31186449496090507,486,Error: Process exited with code 1
+2025-02-25 12:00:19.287784,pod-12,kube-system,Running,5,0.719703813983902,165,Error: Process exited with code 1
+2025-02-25 12:15:19.287784,pod-6,monitoring,Running,0,0.23168151899106695,323,Normal operation
+2025-02-25 12:49:19.287784,pod-2,kube-system,Running,3,0.824779721673949,432,Error: Process exited with code 1
+2025-02-25 13:05:19.287784,pod-7,default,CrashLoopBackOff,2,2.390698190798526,95,Normal operation
+2025-02-25 14:13:19.287784,pod-18,kube-system,CrashLoopBackOff,4,0.5149442898566116,453,Normal operation
+2025-02-25 14:37:19.287784,pod-15,default,Running,4,2.2818589413858774,325,Normal operation
+2025-02-25 15:38:19.287784,pod-6,monitoring,Running,0,0.5129651264971093,283,Error: Process exited with code 1
+2025-02-25 15:42:19.287784,pod-18,monitoring,Running,4,1.6562330788914867,86,Error: Process exited with code 1
+2025-02-25 16:01:19.287784,pod-15,kube-system,Running,7,1.3412775598049178,90,Error: Process exited with code 1
+2025-02-25 16:29:19.287784,pod-2,kube-system,Running,8,2.4808446541962352,461,Normal operation
+2025-02-25 17:00:19.287784,pod-13,kube-system,Running,5,2.1977003550277403,475,Normal operation
+2025-02-25 17:10:19.287784,pod-13,default,CrashLoopBackOff,6,0.14113103822707398,50,Normal operation
+2025-02-25 18:03:19.287784,pod-5,kube-system,Running,9,0.9121252734668792,305,Normal operation
+2025-02-25 18:52:19.287784,pod-9,default,Running,2,0.5064144501324706,209,Normal operation
+2025-02-25 19:39:19.287784,pod-18,default,Running,5,0.7003233228150638,104,Normal operation
+2025-02-25 19:49:19.287784,pod-6,monitoring,CrashLoopBackOff,5,1.042920667068035,314,Normal operation
+2025-02-25 20:12:19.287784,pod-12,default,Running,7,1.1414807179168056,190,Error: Process exited with code 1
+2025-02-25 21:19:19.287784,pod-20,monitoring,Running,1,2.0425894624304135,495,Normal operation
+2025-02-25 21:24:19.287784,pod-19,monitoring,Running,6,1.1976647004234326,404,Error: Process exited with code 1
+2025-02-25 22:01:19.287784,pod-7,kube-system,Running,1,1.2551667806703033,382,Normal operation
+2025-02-25 22:05:19.287784,pod-14,default,Running,5,0.7984130501409212,319,Normal operation
+2025-02-25 22:50:19.287784,pod-5,monitoring,Running,6,0.3895770892430471,147,Normal operation
+2025-02-25 23:15:19.287784,pod-7,kube-system,Running,0,1.8092700347948238,154,Error: Process exited with code 1
+2025-02-25 23:23:19.287784,pod-13,monitoring,Running,3,0.5444170395926002,116,Normal operation
+2025-02-26 00:00:19.287784,pod-17,default,CrashLoopBackOff,10,2.2909323717336836,454,Error: Process exited with code 1
+2025-02-26 00:29:19.287784,pod-9,monitoring,Running,4,1.9665235043614018,442,Normal operation
+2025-02-26 00:54:19.287784,pod-6,kube-system,Running,4,1.648891052991466,436,Error: Process exited with code 1
+2025-02-26 01:02:19.287784,pod-8,default,Running,9,1.1313067249251605,91,Error: Process exited with code 1
+2025-02-26 01:23:19.287784,pod-20,monitoring,CrashLoopBackOff,6,1.44931377935953,498,Normal operation
+2025-02-26 02:08:19.287784,pod-16,monitoring,Running,5,0.11677512387007632,109,Normal operation
+2025-02-26 02:09:19.287784,pod-12,default,Running,5,1.95286786565577,142,Error: Process exited with code 1
+2025-02-26 02:51:19.287784,pod-20,default,CrashLoopBackOff,1,2.0831004759868725,184,Error: Process exited with code 1
+2025-02-26 02:55:19.287784,pod-16,monitoring,Running,10,2.2243139241188024,459,Normal operation
+2025-02-26 03:25:19.287784,pod-16,kube-system,Running,10,0.9120787625508239,81,Error: Process exited with code 1
+2025-02-26 03:35:19.287784,pod-6,default,Running,1,1.2187861050609545,83,Normal operation
+2025-02-26 03:57:19.287784,pod-18,monitoring,Running,6,2.4887763131371736,84,Error: Process exited with code 1
+2025-02-26 04:08:19.287784,pod-6,monitoring,CrashLoopBackOff,9,1.6147775758056642,142,Normal operation
+2025-02-26 04:47:19.287784,pod-1,default,Running,5,1.0427563260865025,225,Normal operation
+2025-02-26 04:54:19.287784,pod-18,default,Running,1,2.3619807381598172,465,Normal operation
+2025-02-26 05:56:19.287784,pod-5,default,Running,7,1.402396844011176,114,Normal operation
+2025-02-26 07:17:19.287784,pod-8,monitoring,Running,4,1.421507654814178,324,Normal operation
+2025-02-26 11:16:19.287784,pod-1,default,CrashLoopBackOff,0,2.433226572619324,443,Normal operation
+2025-02-26 11:56:19.287784,pod-20,monitoring,Running,6,1.4583597046293393,160,Normal operation
+2025-02-26 12:22:19.287784,pod-3,default,CrashLoopBackOff,0,0.4141245863737901,120,Normal operation
+2025-02-26 13:03:19.287784,pod-3,monitoring,Running,10,1.1152605371480444,393,Error: Process exited with code 1
+2025-02-26 14:40:19.287784,pod-4,default,Running,2,1.7591191678888436,113,Normal operation
+2025-02-26 15:28:19.287784,pod-14,default,CrashLoopBackOff,1,1.4894208921259409,466,Normal operation
+2025-02-26 17:27:19.287784,pod-17,default,Running,5,0.37897255762399307,106,Normal operation
+2025-02-26 17:45:19.287784,pod-5,kube-system,Running,1,1.3660385036314138,245,Error: Process exited with code 1
+2025-02-26 17:47:19.287784,pod-4,kube-system,CrashLoopBackOff,5,1.39431470751561,117,Normal operation
+2025-02-26 19:29:19.287784,pod-18,monitoring,Running,9,1.6069057771293962,344,Normal operation
+2025-02-26 19:45:19.287784,pod-19,kube-system,Running,3,0.11701085695513279,319,Error: Process exited with code 1
+2025-02-26 19:52:19.287784,pod-4,kube-system,Running,2,0.5597314201252089,406,Error: Process exited with code 1
+2025-02-26 20:06:19.287784,pod-19,monitoring,Running,5,1.9287154841691716,445,Error: Process exited with code 1
+2025-02-26 20:22:19.287784,pod-18,kube-system,Running,0,0.9585222158297554,158,Error: Process exited with code 1
+2025-02-26 21:37:19.287784,pod-4,monitoring,Running,0,1.5602519720776507,148,Error: Process exited with code 1
+2025-02-26 22:12:19.287784,pod-16,kube-system,Running,8,1.010726439143801,440,Normal operation
+2025-02-26 23:34:19.287784,pod-15,kube-system,Failed,0,1.1410923769546115,194,Normal operation
+2025-02-26 23:55:19.287784,pod-16,default,Running,7,1.5553535576006652,69,Error: Process exited with code 1
+2025-02-26 23:59:19.287784,pod-16,monitoring,Running,7,0.2846002310985762,451,Error: Process exited with code 1
+2025-02-27 00:04:19.287784,pod-1,kube-system,Pending,0,1.9583493528128837,190,Error: Process exited with code 1
+2025-02-27 00:18:19.287784,pod-10,default,Running,3,0.7105430555774409,448,Normal operation
+2025-02-27 00:47:19.287784,pod-10,kube-system,Running,9,2.1663942778012135,225,Normal operation
+2025-02-27 00:51:19.287784,pod-17,default,Running,1,1.5117543994599711,115,Error: Process exited with code 1
+2025-02-27 01:23:19.287784,pod-4,monitoring,Running,2,0.778837704857906,115,Normal operation
+2025-02-27 02:09:19.287784,pod-17,monitoring,Running,5,0.34916806341654993,405,Error: Process exited with code 1
+2025-02-27 02:39:19.287784,pod-5,kube-system,Running,0,1.8945236144316984,417,Normal operation
+2025-02-27 02:40:19.287784,pod-4,kube-system,Failed,10,2.150388216137907,294,Error: Process exited with code 1
+2025-02-27 02:43:19.287784,pod-12,kube-system,Pending,9,0.4345881632256483,325,Error: Process exited with code 1
+2025-02-27 04:28:19.287784,pod-6,monitoring,Running,3,0.44496664101709127,251,Error: Process exited with code 1
+2025-02-27 04:55:19.287784,pod-19,kube-system,Running,1,0.868555855518156,308,Normal operation
+2025-02-27 05:03:19.287784,pod-13,monitoring,Running,1,2.2924149530561273,431,Normal operation
+2025-02-27 06:10:19.287784,pod-9,monitoring,Running,4,0.26138417811381964,161,Error: Process exited with code 1
+2025-02-27 06:13:19.287784,pod-1,default,Running,4,1.4124618298863607,459,Error: Process exited with code 1
+2025-02-27 06:37:19.287784,pod-16,default,Running,5,0.35154650828472733,100,Error: Process exited with code 1
+2025-02-27 06:53:19.287784,pod-14,monitoring,Running,9,1.3086132048998003,384,Normal operation
+2025-02-27 07:46:19.287784,pod-18,monitoring,Running,6,2.486025332912206,101,Error: Process exited with code 1
+2025-02-27 07:48:19.287784,pod-11,monitoring,Running,1,0.17559747916305624,93,Normal operation
+2025-02-27 08:39:19.287784,pod-16,kube-system,Running,0,1.93394389008518,417,Normal operation
+2025-02-27 10:43:19.287784,pod-17,monitoring,Running,7,0.6329083411310173,120,Error: Process exited with code 1
+2025-02-27 11:03:19.287784,pod-12,monitoring,CrashLoopBackOff,4,0.6853422354954475,237,Error: Process exited with code 1
+2025-02-27 11:05:19.287784,pod-19,monitoring,Running,7,2.4846738743428416,140,Error: Process exited with code 1
+2025-02-27 11:23:19.287784,pod-9,monitoring,CrashLoopBackOff,10,1.2151632837849387,368,Normal operation
+2025-02-27 12:03:19.287784,pod-17,kube-system,Running,4,1.7108489845819543,74,Error: Process exited with code 1
+2025-02-27 12:18:19.287784,pod-1,monitoring,Running,8,0.8044895629426563,299,Error: Process exited with code 1
+2025-02-27 12:24:19.287784,pod-6,monitoring,Running,4,2.0002276509188626,141,Normal operation
+2025-02-27 12:26:19.287784,pod-9,monitoring,Failed,2,1.0152055494273164,372,Error: Process exited with code 1
+2025-02-27 13:21:19.287784,pod-20,kube-system,CrashLoopBackOff,4,1.3749563090369896,85,Normal operation
+2025-02-27 13:42:19.287784,pod-8,default,Running,7,0.23596247090647804,155,Error: Process exited with code 1
+2025-02-27 14:40:19.287784,pod-10,monitoring,Running,8,0.9789741635834575,253,Error: Process exited with code 1
+2025-02-27 14:48:19.287784,pod-1,kube-system,Running,8,1.6389226363447305,404,Normal operation
+2025-02-27 15:08:19.287784,pod-6,default,Running,3,0.5435533264813023,295,Error: Process exited with code 1
+2025-02-27 16:58:19.287784,pod-16,kube-system,Running,8,1.8610739936406098,327,Error: Process exited with code 1
+2025-02-27 17:30:19.287784,pod-8,default,CrashLoopBackOff,0,1.0455385608093744,107,Normal operation
+2025-02-27 17:34:19.287784,pod-9,monitoring,Running,4,1.239643743688472,371,Normal operation
+2025-02-27 17:34:19.287784,pod-8,kube-system,Running,4,2.184812903039573,340,Normal operation
+2025-02-27 17:36:19.287784,pod-18,kube-system,Failed,4,2.2995414490439456,446,Normal operation
+2025-02-27 19:11:19.287784,pod-14,default,CrashLoopBackOff,2,1.5938644935593949,100,Error: Process exited with code 1
+2025-02-27 22:16:19.287784,pod-7,monitoring,Running,4,0.4268341680106107,100,Error: Process exited with code 1
+2025-02-27 23:12:19.287784,pod-6,monitoring,CrashLoopBackOff,10,1.8604701340826348,401,Normal operation
+2025-02-27 23:14:19.287784,pod-3,monitoring,Running,6,0.41273273965998336,487,Error: Process exited with code 1
+2025-02-28 00:08:19.287784,pod-18,default,Running,3,1.7743021375999863,197,Error: Process exited with code 1
+2025-02-28 00:21:19.287784,pod-5,monitoring,Running,9,2.0100856648894583,174,Normal operation
+2025-02-28 01:55:19.287784,pod-18,kube-system,Running,9,0.35723582833537015,251,Normal operation
+2025-02-28 02:04:19.287784,pod-2,monitoring,Running,7,0.8217174451640206,248,Error: Process exited with code 1
+2025-02-28 03:02:19.287784,pod-13,kube-system,Failed,2,0.692511094835393,200,Error: Process exited with code 1
+2025-02-28 03:09:19.287784,pod-17,monitoring,Running,9,1.9528019595465724,459,Normal operation
+2025-02-28 04:32:19.287784,pod-1,kube-system,Running,8,1.3460843096217128,462,Error: Process exited with code 1
+2025-02-28 05:24:19.287784,pod-17,default,Running,5,1.5238700010375485,269,Normal operation
+2025-02-28 07:03:19.287784,pod-12,kube-system,Running,6,1.2240164777177462,316,Error: Process exited with code 1
+2025-02-28 07:41:19.287784,pod-5,kube-system,Running,8,1.2692803755029338,215,Normal operation
+2025-02-28 08:56:19.287784,pod-9,default,Failed,0,1.9943036328917962,127,Normal operation
+2025-02-28 09:19:19.287784,pod-5,monitoring,Running,6,0.7971459441629958,398,Error: Process exited with code 1
+2025-02-28 10:16:19.287784,pod-2,monitoring,Running,4,2.454136296043331,339,Error: Process exited with code 1
+2025-02-28 10:53:19.287784,pod-2,monitoring,Running,6,0.2638919479696321,82,Normal operation
+2025-02-28 11:01:19.287784,pod-19,monitoring,Running,6,1.6685118311344842,103,Normal operation
+2025-02-28 13:16:19.287784,pod-6,default,CrashLoopBackOff,4,1.364445560650353,217,Error: Process exited with code 1
+2025-02-28 13:37:19.287784,pod-7,kube-system,CrashLoopBackOff,10,2.1304191489899993,488,Normal operation
+2025-02-28 14:10:19.287784,pod-20,default,Running,9,1.5506189323387813,453,Normal operation
+2025-02-28 15:53:19.287784,pod-14,kube-system,CrashLoopBackOff,9,0.9087327601817045,317,Normal operation
+2025-02-28 16:20:19.287784,pod-2,monitoring,Running,3,1.7418330190044617,492,Normal operation
+2025-02-28 16:38:19.287784,pod-20,kube-system,Running,3,2.0941958173874182,97,Normal operation
+2025-02-28 17:07:19.287784,pod-18,kube-system,Running,8,2.2748983830617706,135,Error: Process exited with code 1
+2025-02-28 18:05:19.287784,pod-10,kube-system,CrashLoopBackOff,4,0.9519109629498876,82,Error: Process exited with code 1
+2025-02-28 18:24:19.287784,pod-6,default,Failed,4,0.5649900169345166,436,Normal operation
+2025-02-28 19:21:19.287784,pod-7,kube-system,Running,2,1.5387114384597482,315,Error: Process exited with code 1
+2025-02-28 20:15:19.287784,pod-6,monitoring,Running,4,1.2071978403750718,277,Normal operation
+2025-02-28 21:44:19.287784,pod-3,kube-system,Running,9,2.150085634479097,186,Normal operation
+2025-02-28 22:22:19.287784,pod-2,default,Running,3,0.5748585687901603,61,Normal operation
+2025-02-28 22:35:19.287784,pod-9,kube-system,Running,2,2.263515690946442,248,Normal operation
+2025-02-28 22:44:19.287784,pod-1,monitoring,Running,8,0.8105159133081016,404,Normal operation
+2025-02-28 23:24:19.287784,pod-2,kube-system,CrashLoopBackOff,4,2.346028418735449,346,Normal operation
+2025-03-01 00:22:19.287784,pod-10,default,Running,9,1.4778652013349227,463,Error: Process exited with code 1
+2025-03-01 01:03:19.287784,pod-7,kube-system,Running,7,1.454429385528551,311,Error: Process exited with code 1
+2025-03-01 01:34:19.287784,pod-19,monitoring,Running,9,2.371311909728356,214,Error: Process exited with code 1
+2025-03-01 02:51:19.287784,pod-16,default,Running,8,1.0682042192124184,413,Error: Process exited with code 1
+2025-03-01 02:53:19.287784,pod-9,default,Running,6,1.0281329745216072,332,Error: Process exited with code 1
+2025-03-01 03:10:19.287784,pod-17,kube-system,Failed,5,1.6518525649752749,425,Error: Process exited with code 1
+2025-03-01 03:23:19.287784,pod-4,monitoring,Running,9,1.9050830298353632,331,Error: Process exited with code 1
+2025-03-01 03:38:19.287784,pod-10,kube-system,Running,5,2.4835683594801568,188,Normal operation
+2025-03-01 04:01:19.287784,pod-3,default,Running,2,0.7753365412481764,437,Error: Process exited with code 1
+2025-03-01 05:59:19.287784,pod-12,default,Running,5,2.066349578540503,212,Normal operation
+2025-03-01 07:40:19.287784,pod-15,kube-system,Running,6,1.9480312068322805,447,Error: Process exited with code 1
+2025-03-01 09:36:19.287784,pod-19,monitoring,Running,0,1.9008086715713282,398,Error: Process exited with code 1
+2025-03-01 10:16:19.287784,pod-18,default,CrashLoopBackOff,5,0.3413722773695664,348,Error: Process exited with code 1
+2025-03-01 11:20:19.287784,pod-8,monitoring,Running,0,0.24765841203917677,308,Error: Process exited with code 1
+2025-03-01 12:30:19.287784,pod-11,monitoring,Running,6,1.0876108643278142,363,Normal operation
+2025-03-01 12:44:19.287784,pod-20,monitoring,Running,0,0.17965621896462602,497,Error: Process exited with code 1
+2025-03-01 14:32:19.287784,pod-3,kube-system,Running,4,2.3248786657359015,93,Error: Process exited with code 1
+2025-03-01 15:11:19.287784,pod-15,monitoring,Running,2,0.6236184934499227,181,Error: Process exited with code 1
+2025-03-01 16:12:19.287784,pod-2,default,Running,1,1.5553900890661019,179,Normal operation
+2025-03-01 16:16:19.287784,pod-20,kube-system,Running,8,2.039653979525883,104,Error: Process exited with code 1
+2025-03-01 16:51:19.287784,pod-18,default,Running,9,0.9285811094307781,141,Error: Process exited with code 1
+2025-03-01 16:52:19.287784,pod-12,default,Failed,7,0.16465547803810487,404,Error: Process exited with code 1
+2025-03-01 16:57:19.287784,pod-8,monitoring,Running,4,1.0936595442564325,128,Error: Process exited with code 1
+2025-03-01 17:57:19.287784,pod-18,kube-system,Running,8,0.5817173096471925,426,Normal operation
+2025-03-01 18:07:19.287784,pod-2,kube-system,Running,1,0.9278257412776241,489,Normal operation
+2025-03-01 18:22:19.287784,pod-1,kube-system,CrashLoopBackOff,5,0.9064918290843303,128,Error: Process exited with code 1
+2025-03-01 18:26:19.287784,pod-15,monitoring,CrashLoopBackOff,3,0.3413349903011993,381,Normal operation
+2025-03-01 19:17:19.287784,pod-11,monitoring,Running,3,0.905695632909634,89,Error: Process exited with code 1
+2025-03-01 20:48:19.287784,pod-10,kube-system,Running,0,2.394921710898981,244,Normal operation
+2025-03-01 22:00:19.287784,pod-9,kube-system,Running,4,1.564849111062633,126,Error: Process exited with code 1
+2025-03-01 22:19:19.287784,pod-13,kube-system,Running,0,0.5122971349436158,160,Normal operation
+2025-03-01 22:54:19.287784,pod-16,default,CrashLoopBackOff,2,1.3430421593532056,168,Normal operation
+2025-03-02 00:01:19.287784,pod-17,monitoring,Running,10,0.8923791345265564,231,Error: Process exited with code 1
+2025-03-02 00:21:19.287784,pod-3,kube-system,Running,3,0.27348136871102724,274,Normal operation
+2025-03-02 01:27:19.287784,pod-12,kube-system,Running,7,2.250671318558724,450,Normal operation
+2025-03-02 01:45:19.287784,pod-19,default,Running,2,0.5962495957030259,425,Normal operation
+2025-03-02 02:51:19.287784,pod-9,kube-system,Running,3,1.6998684340057897,142,Normal operation
+2025-03-02 03:06:19.287784,pod-17,monitoring,Running,7,2.3793777989383793,342,Error: Process exited with code 1
+2025-03-02 03:33:19.287784,pod-3,monitoring,Running,4,0.8281203563710475,229,Normal operation
+2025-03-02 03:43:19.287784,pod-9,default,CrashLoopBackOff,8,0.26955721110550035,264,Normal operation
+2025-03-02 03:45:19.287784,pod-6,monitoring,Failed,3,1.2175303391373349,384,Normal operation
+2025-03-02 04:23:19.287784,pod-9,monitoring,Pending,8,0.4142187847631844,465,Error: Process exited with code 1
+2025-03-02 04:25:19.287784,pod-12,default,Running,3,1.3064969894909424,235,Normal operation
+2025-03-02 04:27:19.287784,pod-11,monitoring,Running,0,2.451616859667838,185,Error: Process exited with code 1
+2025-03-02 04:38:19.287784,pod-7,monitoring,Running,7,1.5487182014514524,254,Normal operation
+2025-03-02 05:40:19.287784,pod-9,monitoring,Running,7,1.5763094877853951,203,Normal operation
+2025-03-02 07:52:19.287784,pod-10,default,CrashLoopBackOff,1,0.6819033709196047,295,Normal operation
+2025-03-02 08:13:19.287784,pod-15,monitoring,Running,8,0.6841475108355021,377,Normal operation
+2025-03-02 08:46:19.287784,pod-17,kube-system,CrashLoopBackOff,8,1.3222748358249012,241,Normal operation
+2025-03-02 11:01:19.287784,pod-1,default,Running,9,0.9946520886457364,281,Error: Process exited with code 1
+2025-03-02 12:43:19.287784,pod-17,default,Running,8,1.1377105950374087,467,Error: Process exited with code 1
+2025-03-02 12:51:19.287784,pod-1,kube-system,Running,7,0.33282175129682257,80,Error: Process exited with code 1
+2025-03-02 12:54:19.287784,pod-2,monitoring,Failed,8,0.9382923409863975,262,Normal operation
+2025-03-02 13:21:19.287784,pod-3,monitoring,Running,0,0.3156707797935763,315,Normal operation
+2025-03-02 13:29:19.287784,pod-11,monitoring,Running,8,0.5557490898145413,247,Error: Process exited with code 1
+2025-03-02 14:10:19.287784,pod-5,default,CrashLoopBackOff,4,0.6900502604103309,369,Error: Process exited with code 1
+2025-03-02 14:35:19.287784,pod-10,kube-system,CrashLoopBackOff,6,2.0272241554415484,402,Error: Process exited with code 1
+2025-03-02 17:49:19.287784,pod-10,default,Failed,9,2.094923100928947,350,Normal operation
+2025-03-02 18:17:19.287784,pod-1,default,CrashLoopBackOff,10,0.39145567949918025,222,Error: Process exited with code 1
+2025-03-02 18:39:19.287784,pod-8,default,Running,4,2.1996800226512936,376,Error: Process exited with code 1
+2025-03-02 19:01:19.287784,pod-19,default,Running,7,1.1362534178158357,448,Error: Process exited with code 1
+2025-03-02 23:22:19.287784,pod-11,monitoring,Running,8,0.6072027082412302,306,Normal operation
+2025-03-03 00:09:19.287784,pod-14,kube-system,CrashLoopBackOff,10,0.7201124075219669,290,Normal operation
+2025-03-03 00:15:19.287784,pod-9,monitoring,Running,9,2.323414694333378,146,Error: Process exited with code 1
+2025-03-03 00:23:19.287784,pod-4,default,Running,0,0.6113493025740572,422,Error: Process exited with code 1
+2025-03-03 00:32:19.287784,pod-5,default,Running,1,1.3858837416683607,283,Error: Process exited with code 1
+2025-03-03 02:25:19.287784,pod-19,monitoring,CrashLoopBackOff,1,1.4178860112761482,166,Normal operation
+2025-03-03 03:08:19.287784,pod-8,kube-system,CrashLoopBackOff,3,0.46821682741430515,182,Normal operation
+2025-03-03 03:18:19.287784,pod-16,monitoring,Running,10,0.7862060456498466,132,Normal operation
+2025-03-03 04:09:19.287784,pod-13,monitoring,Running,3,1.3408719673175158,298,Normal operation
+2025-03-03 04:17:19.287784,pod-4,default,Failed,3,0.3410479828491725,410,Normal operation
+2025-03-03 04:47:19.287784,pod-16,monitoring,CrashLoopBackOff,8,1.2032290386946156,233,Error: Process exited with code 1
+2025-03-03 06:03:19.287784,pod-7,monitoring,CrashLoopBackOff,9,0.8252305585945132,85,Normal operation
+2025-03-03 06:05:19.287784,pod-9,default,Running,7,1.0873257313454279,88,Normal operation
+2025-03-03 06:26:19.287784,pod-9,monitoring,Running,3,0.4754600997434648,437,Error: Process exited with code 1
+2025-03-03 07:03:19.287784,pod-11,kube-system,CrashLoopBackOff,8,1.586827327932347,286,Error: Process exited with code 1
+2025-03-03 08:45:19.287784,pod-2,kube-system,Running,0,0.7311824125135584,347,Error: Process exited with code 1
+2025-03-03 08:56:19.287784,pod-11,monitoring,Running,4,2.3985979748788226,259,Error: Process exited with code 1
+2025-03-03 09:03:19.287784,pod-19,kube-system,CrashLoopBackOff,6,0.4631383693434258,256,Error: Process exited with code 1
+2025-03-03 09:11:19.287784,pod-20,monitoring,CrashLoopBackOff,2,1.7548043977401797,375,Normal operation
+2025-03-03 09:20:19.287784,pod-9,monitoring,Failed,7,1.3271544293257285,325,Normal operation
+2025-03-03 09:23:19.287784,pod-17,monitoring,CrashLoopBackOff,4,0.13296543331155036,173,Error: Process exited with code 1
+2025-03-03 09:42:19.287784,pod-5,kube-system,Running,1,1.046171619178609,396,Normal operation
+2025-03-03 10:15:19.287784,pod-16,monitoring,Running,5,1.2539863443162016,272,Error: Process exited with code 1
+2025-03-03 10:45:19.287784,pod-2,default,Running,6,0.5299687194967018,329,Error: Process exited with code 1
+2025-03-03 10:48:19.287784,pod-1,monitoring,Running,1,0.8662434686817637,67,Error: Process exited with code 1
+2025-03-03 13:02:19.287784,pod-19,kube-system,Failed,2,2.143409740790576,422,Error: Process exited with code 1
+2025-03-03 13:13:19.287784,pod-15,monitoring,Running,9,1.440043782231575,356,Error: Process exited with code 1
+2025-03-03 14:59:19.287784,pod-4,kube-system,Running,1,1.7203298211255815,395,Normal operation
+2025-03-03 15:58:19.287784,pod-11,kube-system,Running,4,1.5512244288756303,51,Normal operation
+2025-03-03 16:06:19.287784,pod-18,monitoring,Running,5,1.881568225711191,148,Normal operation
+2025-03-03 17:01:19.287784,pod-19,monitoring,Running,6,1.2039771133962887,489,Normal operation
+2025-03-03 17:33:19.287784,pod-14,default,Running,7,1.1172628481353837,220,Normal operation
+2025-03-03 17:51:19.287784,pod-2,default,Running,10,1.0108281159568535,154,Error: Process exited with code 1
+2025-03-03 19:02:19.287784,pod-14,default,CrashLoopBackOff,3,1.7098620889924006,431,Normal operation
+2025-03-03 22:00:19.287784,pod-5,kube-system,Running,9,1.0387660952704496,456,Error: Process exited with code 1
+2025-03-04 00:44:19.287784,pod-4,kube-system,Running,7,1.6513677553064843,111,Normal operation
+2025-03-04 03:56:19.287784,pod-17,default,Running,7,1.7288127835781177,58,Error: Process exited with code 1
+2025-03-04 04:03:19.287784,pod-2,default,Failed,0,0.796443160257362,292,Error: Process exited with code 1
+2025-03-04 05:47:19.287784,pod-20,monitoring,Running,7,0.25155704433520054,94,Error: Process exited with code 1
+2025-03-04 06:10:19.287784,pod-14,kube-system,Running,10,2.213970018945303,471,Normal operation
+2025-03-04 06:46:19.287784,pod-7,default,Running,3,1.5737987385170358,346,Error: Process exited with code 1
+2025-03-04 07:27:19.287784,pod-13,default,Running,10,1.3960907167163261,144,Normal operation
+2025-03-04 08:59:19.287784,pod-10,default,Running,1,0.7222682583739352,387,Normal operation
+2025-03-04 09:41:19.287784,pod-14,kube-system,Running,6,2.259055951719546,318,Normal operation
+2025-03-04 10:21:19.287784,pod-14,default,Running,1,0.3907547062081447,379,Normal operation
+2025-03-04 11:08:19.287784,pod-3,default,Running,3,0.2123700804837977,250,Normal operation
+2025-03-04 13:10:19.287784,pod-3,monitoring,Running,9,2.3060202225181854,447,Normal operation
+2025-03-04 14:12:19.287784,pod-11,default,Running,2,0.25077210053909116,327,Error: Process exited with code 1
+2025-03-04 14:18:19.287784,pod-16,kube-system,Running,4,1.8875267597790313,88,Normal operation
+2025-03-04 15:31:19.287784,pod-18,kube-system,Running,7,2.1975905565088882,353,Error: Process exited with code 1
+2025-03-04 16:36:19.287784,pod-7,default,Running,9,1.0306924211495112,90,Error: Process exited with code 1
+2025-03-04 17:09:19.287784,pod-8,monitoring,Running,2,1.5796436180442206,486,Error: Process exited with code 1
+2025-03-04 17:40:19.287784,pod-11,kube-system,Running,5,2.051302284117027,369,Error: Process exited with code 1
+2025-03-04 19:18:19.287784,pod-11,default,Running,7,0.5825464828948806,441,Normal operation
+2025-03-04 19:30:19.287784,pod-2,monitoring,Running,10,2.3845693891785333,221,Error: Process exited with code 1
+2025-03-04 20:09:19.287784,pod-9,kube-system,Failed,0,1.9041210436448055,118,Normal operation
+2025-03-04 20:25:19.287784,pod-2,monitoring,Failed,5,0.25061563695375766,469,Error: Process exited with code 1
+2025-03-04 21:19:19.287784,pod-18,kube-system,Running,9,0.3154323968817538,61,Error: Process exited with code 1
+2025-03-04 23:33:19.287784,pod-1,kube-system,CrashLoopBackOff,4,1.5405970874326445,240,Normal operation
+2025-03-05 00:43:19.287784,pod-5,monitoring,Running,8,1.290617262666873,130,Normal operation
+2025-03-05 00:56:19.287784,pod-7,kube-system,Running,1,0.7050200657081414,475,Error: Process exited with code 1
+2025-03-05 01:26:19.287784,pod-7,kube-system,Running,7,2.4790535005833627,245,Normal operation
+2025-03-05 04:16:19.287784,pod-11,monitoring,Running,0,0.39308145674022543,84,Normal operation
+2025-03-05 04:25:19.287784,pod-2,default,CrashLoopBackOff,6,2.4177166534701016,73,Normal operation
+2025-03-05 04:33:19.287784,pod-16,default,CrashLoopBackOff,3,0.9399760605269581,198,Error: Process exited with code 1
+2025-03-05 05:02:19.287784,pod-8,monitoring,CrashLoopBackOff,7,2.109348104965278,417,Error: Process exited with code 1
+2025-03-05 05:04:19.287784,pod-8,kube-system,Running,6,0.9709929516906675,334,Error: Process exited with code 1
+2025-03-05 05:09:19.287784,pod-17,monitoring,Pending,2,1.6858985969455644,265,Normal operation
+2025-03-05 05:44:19.287784,pod-13,default,CrashLoopBackOff,10,1.5176608705596704,65,Normal operation
+2025-03-05 06:17:19.287784,pod-2,kube-system,Failed,7,1.5809149524197108,166,Normal operation
+2025-03-05 06:54:19.287784,pod-1,kube-system,Running,6,2.1555266541226987,277,Normal operation
+2025-03-05 07:40:19.287784,pod-15,kube-system,Failed,3,1.5531872249780623,368,Error: Process exited with code 1
+2025-03-05 08:21:19.287784,pod-12,monitoring,CrashLoopBackOff,2,1.6782586298636133,465,Normal operation
+2025-03-05 08:26:19.287784,pod-15,monitoring,Running,7,0.8722359783410325,150,Error: Process exited with code 1
+2025-03-05 08:55:19.287784,pod-4,monitoring,CrashLoopBackOff,3,2.330929494032246,363,Normal operation
+2025-03-05 09:55:19.287784,pod-16,kube-system,Running,4,1.1737739137192127,247,Error: Process exited with code 1
+2025-03-05 10:12:19.287784,pod-20,default,Running,10,1.8092376223969617,468,Error: Process exited with code 1
+2025-03-05 10:15:19.287784,pod-10,kube-system,Running,9,0.7386721912969039,309,Normal operation
+2025-03-05 12:24:19.287784,pod-19,monitoring,Running,5,2.2692905892158404,390,Error: Process exited with code 1
+2025-03-05 12:59:19.287784,pod-4,monitoring,Failed,1,1.580045305955862,101,Error: Process exited with code 1
+2025-03-05 15:31:19.287784,pod-9,monitoring,Running,4,2.4118245148069244,309,Error: Process exited with code 1
+2025-03-05 16:08:19.287784,pod-6,monitoring,CrashLoopBackOff,10,0.5117047707736765,480,Error: Process exited with code 1
+2025-03-05 17:59:19.287784,pod-20,kube-system,Running,3,2.3792884409816306,248,Normal operation
+2025-03-05 18:32:19.287784,pod-11,default,CrashLoopBackOff,0,1.894702136789426,212,Normal operation
+2025-03-05 19:39:19.287784,pod-16,monitoring,Running,1,1.3201964190808457,420,Normal operation
+2025-03-05 20:37:19.287784,pod-14,monitoring,Running,0,0.6132599569254867,290,Normal operation
+2025-03-05 21:35:19.287784,pod-15,default,Running,2,1.607915042053434,377,Error: Process exited with code 1
+2025-03-05 21:36:19.287784,pod-5,default,Running,0,1.5997736834935767,309,Normal operation
+2025-03-05 21:43:19.287784,pod-9,kube-system,Running,6,0.9410141732560595,64,Error: Process exited with code 1
+2025-03-05 21:44:19.287784,pod-2,default,CrashLoopBackOff,2,2.159235114220475,341,Normal operation
+2025-03-05 22:00:19.287784,pod-6,monitoring,Running,7,2.1606911530220634,331,Error: Process exited with code 1
+2025-03-05 22:02:19.287784,pod-1,monitoring,Running,10,1.7262794907409151,490,Normal operation
+2025-03-05 23:45:19.287784,pod-14,monitoring,Running,3,2.234784057551434,341,Normal operation
+2025-03-06 00:24:19.287784,pod-13,monitoring,Running,5,0.5154140645113838,79,Normal operation
+2025-03-06 00:33:19.287784,pod-6,default,CrashLoopBackOff,6,1.843657772894898,218,Error: Process exited with code 1
+2025-03-06 04:27:19.287784,pod-18,monitoring,Running,4,1.6036139762885186,322,Error: Process exited with code 1
+2025-03-06 04:31:19.287784,pod-13,kube-system,Running,6,1.6413214612572886,446,Error: Process exited with code 1
+2025-03-06 05:49:19.287784,pod-6,kube-system,Failed,9,1.8477727949136398,463,Normal operation
+2025-03-06 06:19:19.287784,pod-9,monitoring,Running,8,1.9892710763457562,321,Error: Process exited with code 1
+2025-03-06 07:44:19.287784,pod-15,kube-system,CrashLoopBackOff,5,0.11452065398797845,64,Normal operation
+2025-03-06 08:16:19.287784,pod-18,monitoring,Running,8,2.0222342767012766,161,Error: Process exited with code 1
+2025-03-06 08:19:19.287784,pod-1,default,Running,0,1.4294211514996655,235,Normal operation
+2025-03-06 08:22:19.287784,pod-20,monitoring,CrashLoopBackOff,5,2.387002769518252,416,Normal operation
+2025-03-06 08:41:19.287784,pod-18,default,Running,2,2.3031426731385287,498,Error: Process exited with code 1
+2025-03-06 08:54:19.287784,pod-7,monitoring,CrashLoopBackOff,6,2.1052651787658414,391,Error: Process exited with code 1
+2025-03-06 09:11:19.287784,pod-4,monitoring,Running,8,1.7842079803125495,222,Error: Process exited with code 1
+2025-03-06 09:52:19.287784,pod-9,default,Running,8,1.1429445189933045,91,Error: Process exited with code 1
+2025-03-06 09:53:19.287784,pod-16,monitoring,Running,2,0.5109360306044967,275,Normal operation
+2025-03-06 10:45:19.287784,pod-15,default,Running,3,2.059798300138794,150,Error: Process exited with code 1
+2025-03-06 11:13:19.287784,pod-18,kube-system,Running,1,2.3719140302162893,358,Normal operation
+2025-03-06 12:39:19.287784,pod-8,kube-system,Running,7,1.227824637279664,429,Normal operation
+2025-03-06 12:45:19.287784,pod-18,default,Running,7,2.1197516258438363,335,Error: Process exited with code 1
+2025-03-06 12:50:19.287784,pod-10,kube-system,Failed,6,1.2636217065348536,186,Normal operation
+2025-03-06 12:57:19.287784,pod-7,default,CrashLoopBackOff,2,1.483807995634208,58,Error: Process exited with code 1
+2025-03-06 13:42:19.287784,pod-17,default,Running,5,1.4626335824764582,155,Normal operation
+2025-03-06 13:50:19.287784,pod-12,kube-system,Running,2,2.2054206709869195,258,Error: Process exited with code 1
+2025-03-06 15:02:19.287784,pod-18,kube-system,Running,10,1.6517309829997544,178,Normal operation
+2025-03-06 15:10:19.287784,pod-3,monitoring,Running,6,0.519719959933842,372,Error: Process exited with code 1
+2025-03-06 15:22:19.287784,pod-14,monitoring,Pending,3,1.3871111038671196,156,Error: Process exited with code 1
+2025-03-06 16:08:19.287784,pod-17,default,Running,5,2.1487825446998743,218,Error: Process exited with code 1
+2025-03-06 16:12:19.287784,pod-16,kube-system,Running,3,0.7836727629527879,493,Error: Process exited with code 1
+2025-03-06 17:59:19.287784,pod-19,monitoring,Running,4,1.6413410791144527,50,Normal operation
+2025-03-06 18:34:19.287784,pod-17,kube-system,Running,3,1.3673377060067446,125,Normal operation
+2025-03-06 19:25:19.287784,pod-9,kube-system,Running,3,2.4756855407732767,408,Normal operation
+2025-03-06 20:32:19.287784,pod-12,monitoring,Running,9,0.740018446686921,362,Normal operation
+2025-03-06 20:32:19.287784,pod-7,monitoring,Running,5,0.2320442193049149,143,Normal operation
+2025-03-06 20:54:19.287784,pod-8,monitoring,Running,9,2.2231061868621143,52,Normal operation
+2025-03-06 20:58:19.287784,pod-2,kube-system,Failed,3,0.4315144233282737,96,Normal operation
+2025-03-06 22:11:19.287784,pod-11,kube-system,CrashLoopBackOff,3,0.3837278225589501,361,Normal operation
+2025-03-06 23:32:19.287784,pod-2,kube-system,Running,2,1.1334364204529332,423,Error: Process exited with code 1
+2025-03-07 00:07:19.287784,pod-19,default,CrashLoopBackOff,3,1.3877898583805546,113,Error: Process exited with code 1
+2025-03-07 00:18:19.287784,pod-16,default,Running,10,0.3020901774958273,300,Normal operation
+2025-03-07 00:19:19.287784,pod-1,kube-system,Running,0,0.8462387642047742,209,Normal operation
+2025-03-07 00:22:19.287784,pod-3,default,Running,4,1.0664151034153349,144,Normal operation
+2025-03-07 02:37:19.287784,pod-4,monitoring,Running,4,1.5709625098837083,166,Normal operation
+2025-03-07 02:40:19.287784,pod-3,monitoring,Running,10,1.6244270465923543,274,Normal operation
+2025-03-07 02:56:19.287784,pod-9,monitoring,CrashLoopBackOff,5,1.911058740335251,193,Error: Process exited with code 1
+2025-03-07 03:26:19.287784,pod-13,monitoring,Running,10,0.3786497001519771,406,Normal operation
+2025-03-07 03:51:19.287784,pod-2,default,Running,2,1.6668707052219414,187,Error: Process exited with code 1
+2025-03-07 04:15:19.287784,pod-15,default,Running,9,2.4955675214903676,316,Error: Process exited with code 1
+2025-03-07 05:40:19.287784,pod-14,kube-system,Running,6,1.4505530197567933,419,Error: Process exited with code 1
+2025-03-07 06:49:19.287784,pod-13,default,Running,4,2.3742443612729978,133,Normal operation
+2025-03-07 06:55:19.287784,pod-18,monitoring,Running,1,1.9125860095262501,63,Normal operation
+2025-03-07 07:28:19.287784,pod-11,kube-system,Running,10,0.3066081906900826,265,Error: Process exited with code 1
+2025-03-07 09:38:19.287784,pod-6,default,Running,5,1.8006056592293271,151,Error: Process exited with code 1
+2025-03-07 10:05:19.287784,pod-20,monitoring,Running,7,0.8335944540985285,372,Normal operation
+2025-03-07 10:09:19.287784,pod-9,kube-system,CrashLoopBackOff,2,0.9536516993875654,379,Normal operation
+2025-03-07 11:27:19.287784,pod-10,monitoring,Running,7,0.48858366550127896,314,Error: Process exited with code 1
+2025-03-07 12:33:19.287784,pod-7,kube-system,Running,10,0.8721292516507633,148,Error: Process exited with code 1
+2025-03-07 12:45:19.287784,pod-11,kube-system,Running,2,0.2027380504371169,380,Normal operation
+2025-03-07 12:58:19.287784,pod-6,monitoring,Running,8,1.826050491640886,171,Normal operation
+2025-03-07 13:11:19.287784,pod-7,kube-system,CrashLoopBackOff,8,0.7383237556118402,414,Normal operation
+2025-03-07 13:14:19.287784,pod-7,monitoring,Running,6,2.1532718539747675,129,Normal operation
+2025-03-07 14:22:19.287784,pod-13,kube-system,Running,3,1.824196265718678,493,Normal operation
+2025-03-07 14:41:19.287784,pod-20,kube-system,Running,6,2.1858752770858065,214,Normal operation
+2025-03-07 17:03:19.287784,pod-20,default,Running,7,0.5693412810335199,102,Normal operation
+2025-03-07 17:06:19.287784,pod-11,monitoring,CrashLoopBackOff,6,2.159098640888954,263,Normal operation
+2025-03-07 18:03:19.287784,pod-20,monitoring,Running,10,0.22772555619790555,389,Normal operation
+2025-03-07 18:12:19.287784,pod-11,kube-system,Running,9,2.0084281697377477,304,Error: Process exited with code 1
+2025-03-07 18:38:19.287784,pod-12,kube-system,Running,3,1.6285323499046884,151,Normal operation
+2025-03-07 19:39:19.287784,pod-10,default,Running,8,0.2140416131653029,144,Normal operation
+2025-03-07 20:08:19.287784,pod-1,default,Running,7,1.6151668009705615,488,Error: Process exited with code 1
+2025-03-07 20:53:19.287784,pod-1,default,Running,3,1.1625998867472684,195,Normal operation
+2025-03-07 21:03:19.287784,pod-18,default,Running,0,1.214690254391563,339,Normal operation
+2025-03-07 21:05:19.287784,pod-11,monitoring,Running,10,0.5516753993801548,287,Error: Process exited with code 1
+2025-03-07 22:51:19.287784,pod-10,default,Running,10,0.44263717330139507,224,Error: Process exited with code 1
+2025-03-07 23:05:19.287784,pod-7,monitoring,Running,6,0.826673186508641,385,Error: Process exited with code 1
+2025-03-08 00:05:19.287784,pod-1,default,CrashLoopBackOff,4,0.12264854220354282,401,Error: Process exited with code 1
+2025-03-08 00:42:19.287784,pod-8,default,Running,0,0.11902932971458001,335,Normal operation
+2025-03-08 01:16:19.287784,pod-17,default,Running,10,2.007768347780334,113,Normal operation
+2025-03-08 04:02:19.287784,pod-5,default,Running,0,1.2641625328689852,84,Error: Process exited with code 1
+2025-03-08 04:14:19.287784,pod-14,kube-system,Running,5,2.478589007404313,196,Normal operation
+2025-03-08 04:49:19.287784,pod-2,kube-system,Running,9,2.392967600275084,113,Error: Process exited with code 1
+2025-03-08 05:10:19.287784,pod-6,monitoring,Running,10,2.4685583339276165,484,Error: Process exited with code 1
+2025-03-08 05:16:19.287784,pod-18,default,CrashLoopBackOff,7,1.2216664401596382,305,Normal operation
+2025-03-08 05:58:19.287784,pod-17,default,Running,7,0.8764993792714398,205,Error: Process exited with code 1
+2025-03-08 05:59:19.287784,pod-5,monitoring,Running,7,2.4819135030446398,58,Error: Process exited with code 1
+2025-03-08 06:22:19.287784,pod-10,kube-system,Running,10,1.0042414506380724,489,Normal operation
+2025-03-08 06:22:19.287784,pod-13,default,Running,4,2.0517745383353905,416,Error: Process exited with code 1
+2025-03-08 06:54:19.287784,pod-2,monitoring,CrashLoopBackOff,1,0.3093489553404588,352,Normal operation
+2025-03-08 07:01:19.287784,pod-10,default,Running,1,2.3179283511053406,240,Error: Process exited with code 1
+2025-03-08 08:30:19.287784,pod-19,default,CrashLoopBackOff,5,2.0730479481741457,496,Normal operation
+2025-03-08 09:19:19.287784,pod-11,kube-system,Running,2,2.0469603519771398,80,Normal operation
+2025-03-08 10:01:19.287784,pod-6,default,CrashLoopBackOff,4,0.2642322974328125,164,Normal operation
+2025-03-08 10:06:19.287784,pod-5,kube-system,Running,8,1.3062184126998817,289,Normal operation
+2025-03-08 12:09:19.287784,pod-14,monitoring,Running,0,1.298858477891072,90,Error: Process exited with code 1
+2025-03-08 12:25:19.287784,pod-17,default,Running,9,0.5830455872074831,401,Normal operation
+2025-03-08 12:30:19.287784,pod-6,kube-system,Failed,10,1.166523365878745,242,Normal operation
+2025-03-08 13:51:19.287784,pod-6,monitoring,Running,4,2.335007201204921,294,Normal operation
+2025-03-08 14:15:19.287784,pod-7,kube-system,Running,6,0.40209978193090934,303,Normal operation
+2025-03-08 14:35:19.287784,pod-6,kube-system,Running,6,1.894224287921211,176,Error: Process exited with code 1
+2025-03-08 15:44:19.287784,pod-11,default,Running,8,1.8631571130330287,236,Error: Process exited with code 1
+2025-03-08 16:02:19.287784,pod-17,default,Running,2,1.0000234092105593,185,Normal operation
+2025-03-08 16:49:19.287784,pod-2,default,Running,8,1.3432396347542894,91,Error: Process exited with code 1
+2025-03-08 17:24:19.287784,pod-7,monitoring,CrashLoopBackOff,3,1.554912154042168,467,Error: Process exited with code 1
+2025-03-08 18:16:19.287784,pod-7,default,Running,7,1.3178342611952778,278,Error: Process exited with code 1
+2025-03-08 18:31:19.287784,pod-2,default,Running,1,1.1927073744378345,108,Error: Process exited with code 1
+2025-03-08 19:03:19.287784,pod-2,kube-system,CrashLoopBackOff,10,0.3192539652482891,355,Normal operation
+2025-03-08 19:17:19.287784,pod-20,monitoring,Pending,10,0.6793598629212405,309,Error: Process exited with code 1
+2025-03-08 21:33:19.287784,pod-7,kube-system,Running,9,1.9628469825151607,59,Normal operation
+2025-03-08 21:50:19.287784,pod-6,monitoring,Pending,6,0.5214367211965538,131,Error: Process exited with code 1
+2025-03-09 00:32:19.287784,pod-11,kube-system,Running,8,1.0807064978137229,412,Error: Process exited with code 1
+2025-03-09 01:10:19.287784,pod-1,default,Running,9,0.4722332316894864,428,Normal operation
+2025-03-09 01:42:19.287784,pod-16,monitoring,Running,6,2.334553115413748,238,Normal operation
+2025-03-09 02:11:19.287784,pod-18,default,CrashLoopBackOff,9,0.6875112872600252,399,Normal operation
+2025-03-09 03:29:19.287784,pod-17,default,CrashLoopBackOff,9,2.4355491370753852,200,Error: Process exited with code 1
+2025-03-09 03:59:19.287784,pod-5,monitoring,Running,2,0.6353249809798256,63,Error: Process exited with code 1
+2025-03-09 04:25:19.287784,pod-8,monitoring,CrashLoopBackOff,3,1.5130600455784766,141,Error: Process exited with code 1
+2025-03-09 07:38:19.287784,pod-13,monitoring,CrashLoopBackOff,3,0.8296727609845252,286,Normal operation
+2025-03-09 08:53:19.287784,pod-15,monitoring,Running,2,0.9885240405889303,52,Error: Process exited with code 1
+2025-03-09 09:36:19.287784,pod-9,default,Running,9,0.9577100172659039,152,Normal operation
+2025-03-09 09:45:19.287784,pod-4,kube-system,Failed,8,2.179002093013796,492,Normal operation
+2025-03-09 09:48:19.287784,pod-1,kube-system,Running,1,0.5316683733429348,141,Normal operation
+2025-03-09 09:49:19.287784,pod-20,kube-system,Running,8,0.40719124890344116,334,Error: Process exited with code 1
+2025-03-09 10:45:19.287784,pod-12,default,Running,8,2.298518917886844,145,Normal operation
+2025-03-09 10:57:19.287784,pod-7,kube-system,CrashLoopBackOff,9,2.215239055079164,225,Error: Process exited with code 1
+2025-03-09 12:36:19.287784,pod-9,kube-system,Running,3,0.801586439579319,213,Normal operation
+2025-03-09 12:59:19.287784,pod-16,monitoring,Running,9,0.47445499877980146,427,Error: Process exited with code 1
+2025-03-09 14:24:19.287784,pod-9,monitoring,Running,10,1.5375089607124295,473,Error: Process exited with code 1
+2025-03-09 15:24:19.287784,pod-4,default,CrashLoopBackOff,1,0.29803495829790744,180,Normal operation
+2025-03-09 15:42:19.287784,pod-5,kube-system,Running,0,1.189290157290236,76,Normal operation
+2025-03-09 16:39:19.287784,pod-18,monitoring,Running,1,0.14254827280430532,338,Normal operation
+2025-03-09 16:48:19.287784,pod-20,monitoring,Running,0,2.3595153249745393,247,Error: Process exited with code 1
+2025-03-09 17:05:19.287784,pod-9,default,Running,0,0.7867448542600175,301,Normal operation
+2025-03-09 17:33:19.287784,pod-15,monitoring,Running,9,2.053513333017125,123,Error: Process exited with code 1
+2025-03-09 17:36:19.287784,pod-14,monitoring,Running,1,1.9181750689299393,159,Normal operation
+2025-03-09 17:38:19.287784,pod-14,kube-system,Running,5,1.7187771923675725,176,Error: Process exited with code 1
+2025-03-09 17:45:19.287784,pod-16,monitoring,Running,5,1.6943817094128664,206,Error: Process exited with code 1
+2025-03-09 18:27:19.287784,pod-9,kube-system,CrashLoopBackOff,9,2.2795225662766914,216,Error: Process exited with code 1
+2025-03-09 18:51:19.287784,pod-2,default,Running,7,0.29105121956873303,289,Normal operation
+2025-03-09 21:07:19.287784,pod-12,kube-system,Running,4,0.9108913974763061,442,Normal operation
+2025-03-09 21:09:19.287784,pod-19,kube-system,Running,2,0.8901991319472179,210,Error: Process exited with code 1
+2025-03-09 22:03:19.287784,pod-19,kube-system,Running,9,0.9491268585101523,352,Normal operation
+2025-03-10 00:19:19.287784,pod-11,default,Running,10,1.1840962776585195,260,Normal operation
+2025-03-10 00:34:19.287784,pod-10,default,CrashLoopBackOff,4,1.5713315892943416,209,Normal operation
+2025-03-10 01:06:19.287784,pod-14,kube-system,CrashLoopBackOff,9,0.7693260120396608,140,Normal operation
+2025-03-10 01:11:19.287784,pod-15,monitoring,Running,4,0.9568693832067556,318,Normal operation
+2025-03-10 02:00:19.287784,pod-8,monitoring,Running,7,0.9876377077321045,114,Error: Process exited with code 1
+2025-03-10 02:07:19.287784,pod-4,monitoring,CrashLoopBackOff,9,1.1349947582144637,257,Normal operation
+2025-03-10 02:20:19.287784,pod-19,default,Running,7,2.3221247427248155,379,Error: Process exited with code 1
+2025-03-10 02:46:19.287784,pod-3,default,Failed,10,2.047417098833968,249,Normal operation
+2025-03-10 04:14:19.287784,pod-16,default,Running,3,0.6187828930212415,499,Normal operation
+2025-03-10 04:41:19.287784,pod-5,kube-system,Pending,8,2.44233680057875,498,Error: Process exited with code 1
+2025-03-10 05:03:19.287784,pod-10,default,Running,6,0.7120680832647484,340,Normal operation
+2025-03-10 05:16:19.287784,pod-5,kube-system,Running,4,0.673459449504819,101,Normal operation
+2025-03-10 06:16:19.287784,pod-3,monitoring,Running,4,1.3065221862232803,299,Error: Process exited with code 1
+2025-03-10 06:18:19.287784,pod-10,default,Running,0,1.0517408903013616,418,Normal operation
+2025-03-10 06:26:19.287784,pod-3,monitoring,Running,4,1.2945588837551316,418,Error: Process exited with code 1
+2025-03-10 07:07:19.287784,pod-16,monitoring,Running,8,1.4189602836895614,344,Normal operation
+2025-03-10 07:10:19.287784,pod-9,monitoring,Running,1,1.1790906169923576,164,Error: Process exited with code 1
+2025-03-10 07:11:19.287784,pod-20,default,Running,2,1.6475998765931703,195,Normal operation
+2025-03-10 07:12:19.287784,pod-10,kube-system,Running,9,1.4339001332730676,126,Normal operation
+2025-03-10 07:28:19.287784,pod-6,kube-system,Running,0,0.7559085709771862,486,Normal operation
+2025-03-10 08:56:19.287784,pod-5,default,Failed,4,1.6221193157765652,351,Error: Process exited with code 1
+2025-03-10 09:35:19.287784,pod-10,monitoring,Running,4,2.147645704376723,240,Error: Process exited with code 1
+2025-03-10 10:18:19.287784,pod-9,monitoring,Running,9,0.5283609659082547,108,Error: Process exited with code 1
+2025-03-10 11:52:19.287784,pod-4,default,Running,6,1.0727984069849246,339,Error: Process exited with code 1
+2025-03-10 11:54:19.287784,pod-11,default,CrashLoopBackOff,5,1.304778375365197,492,Error: Process exited with code 1
+2025-03-10 13:41:19.287784,pod-16,kube-system,Running,4,1.0684290156656064,130,Error: Process exited with code 1
+2025-03-10 14:30:19.287784,pod-4,monitoring,Running,7,1.7364937057771654,137,Error: Process exited with code 1
+2025-03-10 14:56:19.287784,pod-17,monitoring,Running,8,2.147983910959054,394,Error: Process exited with code 1
+2025-03-10 17:34:19.287784,pod-18,monitoring,Running,9,0.2773264741917064,70,Error: Process exited with code 1
+2025-03-10 18:12:19.287784,pod-11,default,Running,10,0.91627767332009,310,Error: Process exited with code 1
+2025-03-10 18:18:19.287784,pod-5,default,Running,1,1.5088309507348716,392,Normal operation
+2025-03-10 18:22:19.287784,pod-20,default,Running,7,2.2287742954203185,52,Error: Process exited with code 1
+2025-03-10 19:34:19.287784,pod-10,kube-system,Running,4,2.1283489019642667,466,Error: Process exited with code 1
+2025-03-10 20:04:19.287784,pod-4,default,Running,1,0.858086730189371,184,Normal operation
+2025-03-10 20:34:19.287784,pod-17,default,Running,7,1.9732652807996443,372,Normal operation
+2025-03-10 20:52:19.287784,pod-13,default,CrashLoopBackOff,5,1.0924181232056953,282,Normal operation
+2025-03-10 20:56:19.287784,pod-8,kube-system,Failed,5,2.4415401038281166,81,Error: Process exited with code 1
+2025-03-10 21:03:19.287784,pod-12,default,Running,0,1.5623828483759277,289,Error: Process exited with code 1
+2025-03-10 21:17:19.287784,pod-4,default,Running,10,1.8916120172861637,251,Error: Process exited with code 1
+2025-03-10 21:44:19.287784,pod-16,monitoring,Running,2,0.21784735822628995,327,Error: Process exited with code 1
+2025-03-10 22:01:19.287784,pod-18,default,Running,6,1.9167044895080234,287,Normal operation
+2025-03-10 23:28:19.287784,pod-7,kube-system,Running,6,0.2427109587456761,135,Normal operation
+2025-03-11 00:21:19.287784,pod-3,kube-system,Running,2,2.3846754717948913,135,Error: Process exited with code 1
+2025-03-11 00:53:19.287784,pod-1,kube-system,Running,2,0.29654539486178616,78,Normal operation
+2025-03-11 02:10:19.287784,pod-20,kube-system,Running,4,0.302975571442569,422,Normal operation
+2025-03-11 04:28:19.287784,pod-11,kube-system,Pending,0,0.9168664747482226,223,Error: Process exited with code 1
+2025-03-11 05:24:19.287784,pod-1,default,Running,3,0.39932857293235213,475,Normal operation
+2025-03-11 05:41:19.287784,pod-9,kube-system,Running,0,0.9376297485237901,430,Normal operation
+2025-03-11 05:41:19.287784,pod-3,default,Running,2,1.5154090015824786,142,Error: Process exited with code 1
+2025-03-11 06:28:19.287784,pod-4,kube-system,Running,9,0.9698185351241689,174,Error: Process exited with code 1
+2025-03-11 07:21:19.287784,pod-14,monitoring,Running,4,0.8526420581882912,109,Error: Process exited with code 1
+2025-03-11 07:44:19.287784,pod-5,kube-system,Running,8,1.740274191737748,279,Normal operation
+2025-03-11 08:13:19.287784,pod-5,kube-system,CrashLoopBackOff,5,0.21756394572509982,164,Normal operation
+2025-03-11 09:20:19.287784,pod-1,monitoring,Running,8,2.423024669706099,115,Error: Process exited with code 1
+2025-03-11 11:27:19.287784,pod-19,default,CrashLoopBackOff,1,0.11165214398913595,489,Normal operation
+2025-03-11 11:43:19.287784,pod-5,default,Pending,10,2.3011211514221954,97,Normal operation
+2025-03-11 12:38:19.287784,pod-18,monitoring,Failed,0,2.2614501402897154,454,Error: Process exited with code 1
+2025-03-11 15:25:19.287784,pod-1,kube-system,Running,2,1.138412646798434,212,Error: Process exited with code 1
+2025-03-11 15:40:19.287784,pod-18,kube-system,Running,0,0.34801942498855243,318,Error: Process exited with code 1
+2025-03-11 16:40:19.287784,pod-1,kube-system,Running,0,0.34218353303576404,182,Normal operation
+2025-03-11 17:11:19.287784,pod-9,kube-system,Running,5,0.8629186960730238,95,Normal operation
+2025-03-11 17:22:19.287784,pod-10,monitoring,Running,4,0.9091447438559768,233,Normal operation
+2025-03-11 17:52:19.287784,pod-1,kube-system,CrashLoopBackOff,0,0.7721644313766587,241,Normal operation
+2025-03-11 20:10:19.287784,pod-14,default,Running,3,0.6929414338855773,241,Error: Process exited with code 1
+2025-03-11 22:23:19.287784,pod-9,default,Running,2,0.6884712960592734,127,Error: Process exited with code 1
+2025-03-11 22:43:19.287784,pod-15,kube-system,CrashLoopBackOff,10,1.452812698099343,88,Error: Process exited with code 1
+2025-03-11 23:24:19.287784,pod-9,kube-system,Running,1,2.1201397470624967,253,Error: Process exited with code 1
+2025-03-12 00:49:19.287784,pod-11,default,Running,8,1.3106157126463964,456,Error: Process exited with code 1
+2025-03-12 02:34:19.287784,pod-17,monitoring,Failed,6,0.2221448184041858,460,Normal operation
+2025-03-12 02:58:19.287784,pod-3,default,Failed,2,0.5633935438085474,361,Normal operation
+2025-03-12 03:03:19.287784,pod-4,monitoring,CrashLoopBackOff,3,1.8554752811908364,464,Error: Process exited with code 1
+2025-03-12 03:09:19.287784,pod-8,default,Running,4,1.5801868318016439,65,Normal operation
+2025-03-12 03:26:19.287784,pod-19,default,Failed,7,0.11567171585105465,160,Normal operation
+2025-03-12 04:27:19.287784,pod-18,kube-system,Failed,7,1.1374934168724833,370,Error: Process exited with code 1
+2025-03-12 05:44:19.287784,pod-16,monitoring,CrashLoopBackOff,6,0.7337260958459355,94,Normal operation
+2025-03-12 06:24:19.287784,pod-18,monitoring,CrashLoopBackOff,7,0.1914912707631431,267,Normal operation
+2025-03-12 07:08:19.287784,pod-17,default,CrashLoopBackOff,3,2.059194340742279,496,Error: Process exited with code 1
+2025-03-12 07:13:19.287784,pod-6,kube-system,Running,1,0.6556118842491272,479,Normal operation
+2025-03-12 08:19:19.287784,pod-14,default,CrashLoopBackOff,9,1.0905975196147795,341,Error: Process exited with code 1
+2025-03-12 08:36:19.287784,pod-14,kube-system,Running,1,1.5969595684362783,213,Error: Process exited with code 1
+2025-03-12 10:37:19.287784,pod-1,default,CrashLoopBackOff,5,1.3641476443807905,76,Error: Process exited with code 1
+2025-03-12 10:46:19.287784,pod-11,kube-system,Running,0,0.4644389985702748,251,Error: Process exited with code 1
+2025-03-12 11:25:19.287784,pod-4,monitoring,Running,8,0.21948413143327458,485,Normal operation
+2025-03-12 11:46:19.287784,pod-8,kube-system,CrashLoopBackOff,10,1.6444481661748962,497,Error: Process exited with code 1
+2025-03-12 12:08:19.287784,pod-20,default,CrashLoopBackOff,6,1.3802080274339232,275,Error: Process exited with code 1
+2025-03-12 12:25:19.287784,pod-17,kube-system,Running,6,2.348921672566985,407,Error: Process exited with code 1
+2025-03-12 13:55:19.287784,pod-11,kube-system,CrashLoopBackOff,8,1.4897785180151695,468,Error: Process exited with code 1
+2025-03-12 15:38:19.287784,pod-1,default,Running,2,1.8544102560050295,426,Error: Process exited with code 1
+2025-03-12 15:40:19.287784,pod-19,kube-system,Running,1,0.35471992863408963,333,Error: Process exited with code 1
+2025-03-12 15:49:19.287784,pod-5,default,Pending,0,0.11827301117968539,498,Normal operation
+2025-03-12 16:05:19.287784,pod-15,default,Failed,1,1.7618431269949326,54,Normal operation
+2025-03-12 16:57:19.287784,pod-16,default,Running,4,1.6643617088903715,239,Error: Process exited with code 1
+2025-03-12 17:14:19.287784,pod-20,monitoring,CrashLoopBackOff,5,1.8124745789336312,156,Normal operation
+2025-03-12 17:32:19.287784,pod-6,monitoring,CrashLoopBackOff,1,0.8358227255112639,59,Error: Process exited with code 1
+2025-03-12 17:39:19.287784,pod-15,default,Running,1,0.3263518906536478,466,Normal operation
+2025-03-12 18:36:19.287784,pod-1,default,CrashLoopBackOff,1,1.156627551757894,171,Error: Process exited with code 1
+2025-03-12 23:22:19.287784,pod-3,monitoring,Pending,5,0.2105865448998402,110,Error: Process exited with code 1
+2025-03-13 00:09:19.287784,pod-13,monitoring,Running,6,0.9170316576721773,298,Error: Process exited with code 1
+2025-03-13 00:13:19.287784,pod-16,monitoring,Running,1,0.8112803190916539,449,Error: Process exited with code 1
+2025-03-13 00:57:19.287784,pod-11,kube-system,Running,9,0.6476036674040273,63,Normal operation
+2025-03-13 01:13:19.287784,pod-9,monitoring,Running,4,1.7911168548457967,99,Error: Process exited with code 1
+2025-03-13 01:23:19.287784,pod-12,kube-system,Running,9,1.6307342304518875,375,Error: Process exited with code 1
+2025-03-13 01:33:19.287784,pod-15,kube-system,CrashLoopBackOff,2,0.753489817740362,499,Error: Process exited with code 1
+2025-03-13 03:00:19.287784,pod-10,monitoring,Running,8,0.799820306705055,468,Error: Process exited with code 1
+2025-03-13 04:08:19.287784,pod-18,monitoring,CrashLoopBackOff,6,1.898131223230141,325,Normal operation
+2025-03-13 06:21:19.287784,pod-3,kube-system,CrashLoopBackOff,2,0.6596934363435736,498,Normal operation
+2025-03-13 06:46:19.287784,pod-2,default,Running,5,2.2038453227168073,119,Error: Process exited with code 1
+2025-03-13 08:02:19.287784,pod-11,monitoring,CrashLoopBackOff,3,0.56134502138821,451,Error: Process exited with code 1
+2025-03-13 08:55:19.287784,pod-10,kube-system,Running,9,1.0638683456067735,476,Normal operation
+2025-03-13 09:07:19.287784,pod-5,kube-system,Running,0,1.48290006128099,385,Error: Process exited with code 1
+2025-03-13 09:33:19.287784,pod-14,default,CrashLoopBackOff,4,0.7591558510766243,370,Normal operation
+2025-03-13 10:20:19.287784,pod-1,monitoring,Running,9,0.571031791234229,56,Normal operation
+2025-03-13 10:42:19.287784,pod-10,monitoring,Running,10,1.3763797724006472,284,Normal operation
+2025-03-13 12:16:19.287784,pod-11,monitoring,Running,8,1.7237439115999902,53,Normal operation
+2025-03-13 12:33:19.287784,pod-10,kube-system,CrashLoopBackOff,1,1.561852670754035,308,Error: Process exited with code 1
+2025-03-13 13:14:19.287784,pod-6,monitoring,Running,7,0.5671964032614836,65,Error: Process exited with code 1
+2025-03-13 15:35:19.287784,pod-4,monitoring,Failed,9,1.5874602665587936,471,Normal operation
+2025-03-13 15:56:19.287784,pod-3,default,Running,9,0.3609715767715268,93,Error: Process exited with code 1
+2025-03-13 17:38:19.287784,pod-7,default,Running,9,1.9108412279118143,447,Normal operation
+2025-03-13 18:31:19.287784,pod-8,kube-system,Failed,8,2.0625622223769233,208,Normal operation
+2025-03-13 20:20:19.287784,pod-5,default,CrashLoopBackOff,1,1.124640712397435,111,Error: Process exited with code 1
+2025-03-13 20:32:19.287784,pod-12,kube-system,CrashLoopBackOff,2,1.6141316851225835,390,Error: Process exited with code 1
+2025-03-13 21:40:19.287784,pod-6,default,CrashLoopBackOff,10,0.5916275432348992,381,Normal operation
+2025-03-13 21:45:19.287784,pod-15,monitoring,Running,3,1.926491282268246,295,Error: Process exited with code 1
+2025-03-13 23:00:19.287784,pod-7,default,Running,10,1.0207847987700578,100,Error: Process exited with code 1
+2025-03-14 00:26:19.287784,pod-3,monitoring,Running,8,1.3209493100672243,55,Error: Process exited with code 1
+2025-03-14 00:42:19.287784,pod-4,monitoring,Running,7,0.9100388362976378,57,Error: Process exited with code 1
+2025-03-14 01:24:19.287784,pod-10,default,Running,8,2.3288598910315415,175,Normal operation
+2025-03-14 03:39:19.287784,pod-19,monitoring,Running,0,0.300920910837689,255,Error: Process exited with code 1
+2025-03-14 04:20:19.287784,pod-11,kube-system,Running,4,0.9557900386845571,462,Normal operation
+2025-03-14 04:27:19.287784,pod-5,kube-system,Running,10,1.1928960474409622,147,Error: Process exited with code 1
+2025-03-14 05:15:19.287784,pod-17,kube-system,Running,5,0.13153955991974842,140,Error: Process exited with code 1
+2025-03-14 06:40:19.287784,pod-11,monitoring,Failed,4,1.5233908851355413,203,Error: Process exited with code 1
+2025-03-14 07:03:19.287784,pod-3,kube-system,CrashLoopBackOff,8,0.11487850112532119,364,Normal operation
+2025-03-14 07:25:19.287784,pod-11,kube-system,Running,3,1.7954294695222788,425,Error: Process exited with code 1
+2025-03-14 09:12:19.287784,pod-6,monitoring,CrashLoopBackOff,4,0.6828490496396598,149,Normal operation
+2025-03-14 09:21:19.287784,pod-10,default,CrashLoopBackOff,1,0.2160290257215527,482,Normal operation
+2025-03-14 09:25:19.287784,pod-5,default,Running,3,1.148636300597058,166,Normal operation
+2025-03-14 11:02:19.287784,pod-18,monitoring,Running,8,0.7337580335312556,472,Normal operation
+2025-03-14 11:02:19.287784,pod-20,default,Running,7,1.8053203517222363,224,Normal operation
+2025-03-14 12:35:19.287784,pod-4,monitoring,Running,8,0.916962910489072,304,Error: Process exited with code 1
+2025-03-14 15:23:19.287784,pod-4,kube-system,Running,10,2.089147863621651,252,Normal operation
+2025-03-14 15:41:19.287784,pod-3,kube-system,CrashLoopBackOff,3,0.9769648302246862,245,Error: Process exited with code 1
+2025-03-14 15:41:19.287784,pod-14,default,Failed,3,0.2813312665395613,476,Error: Process exited with code 1
+2025-03-14 16:48:19.287784,pod-5,monitoring,CrashLoopBackOff,4,2.452671834903051,476,Error: Process exited with code 1
+2025-03-14 18:02:19.287784,pod-4,kube-system,Running,6,0.252675623601765,107,Normal operation
+2025-03-14 18:42:19.287784,pod-2,kube-system,Running,2,0.6244259010947695,340,Normal operation
+2025-03-14 20:53:19.287784,pod-19,kube-system,Running,10,1.1972458949930964,242,Normal operation
+2025-03-14 22:49:19.287784,pod-11,monitoring,Running,7,1.7805224569678642,78,Error: Process exited with code 1
+2025-03-14 23:04:19.287784,pod-14,default,CrashLoopBackOff,2,2.1718952928838453,65,Error: Process exited with code 1
+2025-03-14 23:14:19.287784,pod-15,default,Failed,1,0.23281613552761565,362,Normal operation
+2025-03-14 23:19:19.287784,pod-17,kube-system,Running,2,1.2595751197354357,143,Normal operation
+2025-03-14 23:37:19.287784,pod-2,default,Running,3,1.896001505866698,245,Error: Process exited with code 1
+2025-03-15 01:47:19.287784,pod-16,monitoring,CrashLoopBackOff,10,2.0760698201292054,430,Error: Process exited with code 1
+2025-03-15 02:06:19.287784,pod-9,kube-system,Running,7,0.9046902945874913,461,Error: Process exited with code 1
+2025-03-15 03:13:19.287784,pod-10,kube-system,Running,5,2.384406113995196,80,Normal operation
+2025-03-15 03:41:19.287784,pod-6,kube-system,CrashLoopBackOff,0,0.4084274995886339,89,Error: Process exited with code 1
+2025-03-15 03:57:19.287784,pod-8,kube-system,Running,5,1.9864900066242968,463,Error: Process exited with code 1
+2025-03-15 04:05:19.287784,pod-2,default,CrashLoopBackOff,10,2.434138231732687,410,Error: Process exited with code 1
+2025-03-15 04:26:19.287784,pod-14,kube-system,CrashLoopBackOff,7,1.4568021788130658,340,Normal operation
+2025-03-15 04:57:19.287784,pod-14,monitoring,Running,0,1.0834568210131819,233,Normal operation
+2025-03-15 05:11:19.287784,pod-19,monitoring,Running,10,0.8115004913627,142,Error: Process exited with code 1
+2025-03-15 05:11:19.287784,pod-18,kube-system,Running,3,0.8571651407246099,491,Error: Process exited with code 1
+2025-03-15 05:14:19.287784,pod-9,default,CrashLoopBackOff,0,0.4852195340427812,491,Normal operation
+2025-03-15 05:45:19.287784,pod-19,monitoring,Running,10,1.0334439009646583,91,Error: Process exited with code 1
+2025-03-15 07:13:19.287784,pod-6,kube-system,Pending,9,0.4464515060533554,479,Error: Process exited with code 1
+2025-03-15 07:38:19.287784,pod-8,default,Running,5,2.244432054985399,190,Error: Process exited with code 1
+2025-03-15 07:39:19.287784,pod-5,default,Running,8,1.9599220440005172,353,Normal operation
+2025-03-15 07:39:19.287784,pod-8,kube-system,Pending,9,0.5769941697276676,304,Normal operation
+2025-03-15 09:55:19.287784,pod-15,default,Running,9,0.2584218995652755,108,Error: Process exited with code 1
+2025-03-15 10:10:19.287784,pod-18,kube-system,CrashLoopBackOff,0,1.99960388407139,346,Error: Process exited with code 1
+2025-03-15 10:59:19.287784,pod-11,default,CrashLoopBackOff,10,0.3743374387961068,112,Error: Process exited with code 1
+2025-03-15 11:00:19.287784,pod-17,default,Running,1,1.861797864361067,272,Error: Process exited with code 1
+2025-03-15 11:23:19.287784,pod-1,default,Running,7,2.0048388050180295,242,Normal operation
+2025-03-15 11:29:19.287784,pod-5,kube-system,Running,1,0.608963968079017,205,Normal operation
+2025-03-15 12:07:19.287784,pod-10,default,Running,10,1.1249546852594074,490,Error: Process exited with code 1
+2025-03-15 12:25:19.287784,pod-11,kube-system,Running,2,0.9701842076786473,373,Normal operation
+2025-03-15 13:44:19.287784,pod-17,kube-system,Running,3,1.4155238536728545,274,Error: Process exited with code 1
+2025-03-15 13:44:19.287784,pod-1,default,Running,4,2.113936028797652,101,Error: Process exited with code 1
+2025-03-15 14:10:19.287784,pod-19,monitoring,CrashLoopBackOff,3,0.3446541839186609,377,Error: Process exited with code 1
+2025-03-15 14:11:19.287784,pod-3,default,Running,5,0.262766224965208,64,Normal operation
+2025-03-15 14:14:19.287784,pod-14,monitoring,Running,6,2.3122016873853597,281,Normal operation
+2025-03-15 15:23:19.287784,pod-20,kube-system,Running,5,1.4801755685635734,483,Normal operation
+2025-03-15 15:46:19.287784,pod-20,monitoring,CrashLoopBackOff,9,1.301085464069837,392,Normal operation
+2025-03-15 16:03:19.287784,pod-17,kube-system,Running,0,0.627053644649494,323,Normal operation
+2025-03-15 16:16:19.287784,pod-13,default,Running,2,2.2836552045578764,373,Normal operation
+2025-03-15 18:04:19.287784,pod-3,default,Running,7,1.822370748057626,464,Normal operation
+2025-03-15 19:00:19.287784,pod-17,default,Running,9,1.9209907132135438,222,Normal operation
+2025-03-15 20:15:19.287784,pod-3,default,Running,6,1.0429577635965823,347,Error: Process exited with code 1
+2025-03-15 20:24:19.287784,pod-19,monitoring,Running,5,2.3504354270042915,129,Normal operation
+2025-03-15 21:55:19.287784,pod-14,kube-system,Running,8,1.6987936105756962,145,Normal operation
+2025-03-15 22:49:19.287784,pod-4,default,Running,7,1.6757998690589242,409,Error: Process exited with code 1
+2025-03-15 23:55:19.287784,pod-1,default,Running,0,0.16435123885410735,303,Normal operation
+2025-03-15 23:55:19.287784,pod-5,default,Running,0,1.6432046173976276,96,Normal operation
+2025-03-16 00:10:19.287784,pod-15,kube-system,Running,9,0.5091359138451693,254,Normal operation
+2025-03-16 02:50:19.287784,pod-11,default,Running,1,0.8533665490649838,133,Error: Process exited with code 1
+2025-03-16 03:34:19.287784,pod-2,default,Running,8,1.4188219118112968,118,Normal operation
+2025-03-16 04:02:19.287784,pod-17,monitoring,Running,8,1.9063043528912043,166,Error: Process exited with code 1
+2025-03-16 04:35:19.287784,pod-9,monitoring,Running,8,1.4604683613677578,351,Error: Process exited with code 1
+2025-03-16 05:01:19.287784,pod-1,monitoring,Running,6,1.6541336846121357,348,Error: Process exited with code 1
+2025-03-16 05:07:19.287784,pod-6,default,Running,7,0.7646853747590027,310,Normal operation
+2025-03-16 05:35:19.287784,pod-5,default,Running,1,0.9405686958471771,237,Normal operation
+2025-03-16 07:39:19.287784,pod-3,default,Running,7,1.2983999906322068,180,Normal operation
+2025-03-16 08:23:19.287784,pod-13,default,Running,5,2.4532614495486196,155,Error: Process exited with code 1
+2025-03-16 09:32:19.287784,pod-20,kube-system,CrashLoopBackOff,3,0.11939070069909707,99,Error: Process exited with code 1
+2025-03-16 09:46:19.287784,pod-9,kube-system,Running,9,1.3020486230282824,75,Normal operation
+2025-03-16 12:13:19.287784,pod-4,kube-system,Running,5,1.864566181559853,461,Error: Process exited with code 1
+2025-03-16 12:41:19.287784,pod-7,monitoring,Running,6,1.3672423270962375,311,Error: Process exited with code 1
+2025-03-16 12:46:19.287784,pod-18,default,Running,10,1.30108763532403,143,Error: Process exited with code 1
+2025-03-16 13:16:19.287784,pod-17,default,Running,7,1.6733353760560628,303,Error: Process exited with code 1
+2025-03-16 15:46:19.287784,pod-2,kube-system,Running,3,0.7456988008626859,305,Error: Process exited with code 1
+2025-03-16 15:57:19.287784,pod-14,monitoring,Running,7,1.9511778085602265,288,Normal operation
+2025-03-16 16:01:19.287784,pod-4,kube-system,Running,5,0.2661961242308014,389,Error: Process exited with code 1
+2025-03-16 16:16:19.287784,pod-18,default,Running,8,1.767632410814194,169,Normal operation
+2025-03-16 17:32:19.287784,pod-17,kube-system,Running,5,1.7722989029905822,271,Error: Process exited with code 1
+2025-03-16 17:56:19.287784,pod-12,kube-system,Running,8,2.1311612948231127,347,Error: Process exited with code 1
+2025-03-16 18:25:19.287784,pod-10,default,Running,5,0.33705776340400506,370,Error: Process exited with code 1
+2025-03-16 18:29:19.287784,pod-8,monitoring,Running,9,1.379562671656518,458,Normal operation
+2025-03-16 18:33:19.287784,pod-16,default,CrashLoopBackOff,8,0.5696307058312344,240,Normal operation
+2025-03-16 20:08:19.287784,pod-17,kube-system,Running,2,1.4291604539184821,265,Error: Process exited with code 1
+2025-03-16 20:22:19.287784,pod-16,monitoring,Running,1,1.981810057132421,85,Normal operation
+2025-03-16 20:58:19.287784,pod-17,kube-system,Running,7,1.716477826148305,99,Normal operation
+2025-03-16 22:08:19.287784,pod-6,kube-system,CrashLoopBackOff,10,1.728802339701604,128,Normal operation
+2025-03-16 22:26:19.287784,pod-5,kube-system,Running,6,1.87151976308077,170,Error: Process exited with code 1
+2025-03-16 22:58:19.287784,pod-18,kube-system,Running,4,0.9168322006919754,214,Error: Process exited with code 1
+2025-03-16 23:02:19.287784,pod-13,default,CrashLoopBackOff,4,1.9558876460849923,158,Error: Process exited with code 1
+2025-03-16 23:13:19.287784,pod-9,monitoring,Running,0,1.6269208567378735,131,Normal operation
+2025-03-17 00:17:19.287784,pod-8,default,Running,2,0.9874327389311226,493,Normal operation
+2025-03-17 01:20:19.287784,pod-10,monitoring,Running,6,0.6741801181356951,219,Normal operation
+2025-03-17 01:23:19.287784,pod-2,default,Running,9,0.995354397716449,184,Normal operation
+2025-03-17 01:31:19.287784,pod-17,default,Running,0,0.7540173924330889,128,Normal operation
+2025-03-17 02:48:19.287784,pod-5,monitoring,Running,10,1.8073836634093388,260,Normal operation
+2025-03-17 03:02:19.287784,pod-11,monitoring,Running,0,1.3976544339568835,445,Normal operation
+2025-03-17 03:05:19.287784,pod-9,monitoring,Running,0,0.45443000352074425,199,Normal operation
+2025-03-17 04:33:19.287784,pod-4,monitoring,Running,4,0.5130428370766678,220,Error: Process exited with code 1
+2025-03-17 05:30:19.287784,pod-11,default,CrashLoopBackOff,5,0.9504973176240719,420,Error: Process exited with code 1
+2025-03-17 05:45:19.287784,pod-15,default,Running,4,1.6721104142811747,123,Normal operation
+2025-03-17 06:10:19.287784,pod-17,kube-system,CrashLoopBackOff,7,1.9399538151360083,177,Normal operation
+2025-03-17 06:30:19.287784,pod-16,kube-system,Running,10,0.5640167848442414,195,Normal operation
+2025-03-17 06:31:19.287784,pod-9,default,Running,1,0.5280234820387177,448,Normal operation
+2025-03-17 07:09:19.287784,pod-15,kube-system,Running,10,1.9950662298671227,487,Error: Process exited with code 1
+2025-03-17 08:54:19.287784,pod-4,kube-system,Running,1,1.4088423725456118,244,Normal operation
+2025-03-17 09:39:19.287784,pod-16,default,Running,5,2.432013174018186,263,Normal operation
+2025-03-17 13:12:19.287784,pod-17,default,CrashLoopBackOff,10,0.8808948213912101,370,Normal operation
+2025-03-17 13:14:19.287784,pod-9,monitoring,Running,9,1.4722720541571963,363,Normal operation
+2025-03-17 13:21:19.287784,pod-5,monitoring,CrashLoopBackOff,1,2.1189055344949446,155,Normal operation
+2025-03-17 13:24:19.287784,pod-12,monitoring,CrashLoopBackOff,9,2.189991359085274,409,Normal operation
+2025-03-17 13:25:19.287784,pod-11,kube-system,Running,1,0.6534969227172899,349,Normal operation
+2025-03-17 13:54:19.287784,pod-7,kube-system,Running,5,1.4765993754963291,235,Normal operation
+2025-03-17 14:21:19.287784,pod-16,monitoring,Running,5,1.793432582325838,254,Normal operation
+2025-03-17 17:18:19.287784,pod-17,kube-system,Running,8,0.4823823149499489,388,Normal operation
+2025-03-17 18:00:19.287784,pod-2,default,Running,7,1.205956545142537,67,Normal operation
+2025-03-17 18:50:19.287784,pod-16,default,Running,4,2.1474743509897114,185,Normal operation
+2025-03-17 19:33:19.287784,pod-10,kube-system,Running,7,2.1770149378370265,204,Error: Process exited with code 1
+2025-03-17 19:52:19.287784,pod-16,kube-system,Running,3,1.8105230720791903,144,Normal operation
+2025-03-17 20:31:19.287784,pod-9,default,Running,10,1.7370304289644385,294,Normal operation
+2025-03-17 20:39:19.287784,pod-3,monitoring,Running,4,0.5023187277009231,227,Normal operation
+2025-03-17 21:32:19.287784,pod-9,monitoring,Running,6,0.7989486764095051,232,Normal operation
+2025-03-17 21:48:19.287784,pod-14,kube-system,Running,9,1.4386402178245472,64,Normal operation
+2025-03-17 22:06:19.287784,pod-13,kube-system,Running,6,1.855424237010164,488,Normal operation
+2025-03-17 22:32:19.287784,pod-5,monitoring,Running,9,0.42594791537309296,89,Error: Process exited with code 1
+2025-03-17 22:38:19.287784,pod-15,kube-system,Running,7,1.9163502833643582,457,Error: Process exited with code 1
+2025-03-17 22:47:19.287784,pod-13,kube-system,Running,10,1.407716847381762,196,Error: Process exited with code 1
+2025-03-18 01:12:19.287784,pod-20,default,Running,2,1.5418272465866918,141,Error: Process exited with code 1
+2025-03-18 03:19:19.287784,pod-12,monitoring,Failed,9,0.15098608248745543,492,Normal operation
+2025-03-18 04:19:19.287784,pod-19,monitoring,Running,2,1.1212955839181584,392,Error: Process exited with code 1
+2025-03-18 04:34:19.287784,pod-11,kube-system,Running,1,1.6533141253918424,411,Normal operation
+2025-03-18 05:16:19.287784,pod-12,default,Running,8,1.153647928130679,113,Error: Process exited with code 1
+2025-03-18 06:13:19.287784,pod-11,kube-system,Running,10,1.4917693985666851,213,Normal operation
+2025-03-18 06:37:19.287784,pod-16,kube-system,Running,3,1.6907824087330263,313,Normal operation
+2025-03-18 07:31:19.287784,pod-11,monitoring,Running,6,1.101113989912769,429,Normal operation
+2025-03-18 07:53:19.287784,pod-16,monitoring,CrashLoopBackOff,1,2.359412636215673,485,Error: Process exited with code 1
+2025-03-18 08:42:19.287784,pod-20,default,Running,10,1.9929311090668378,217,Normal operation
+2025-03-18 09:34:19.287784,pod-3,monitoring,Running,3,1.1177207397760829,188,Error: Process exited with code 1
+2025-03-18 09:48:19.287784,pod-14,default,Running,6,2.483170267900392,455,Normal operation
+2025-03-18 09:57:19.287784,pod-13,default,Running,3,2.199055281915132,300,Normal operation
+2025-03-18 10:56:19.287784,pod-18,monitoring,Running,7,0.15501239704720007,429,Normal operation
+2025-03-18 12:01:19.287784,pod-5,default,CrashLoopBackOff,6,0.22213948963627245,288,Normal operation
+2025-03-18 12:06:19.287784,pod-12,default,Running,1,1.6183666894066542,234,Normal operation
+2025-03-18 14:00:19.287784,pod-15,default,Running,7,2.2483150332664112,439,Normal operation
+2025-03-18 14:43:19.287784,pod-7,monitoring,Failed,7,2.357789585120382,418,Error: Process exited with code 1
+2025-03-18 14:48:19.287784,pod-12,kube-system,CrashLoopBackOff,10,1.7588443626151251,394,Error: Process exited with code 1
+2025-03-18 15:23:19.287784,pod-12,default,Running,5,0.14666119608798764,345,Normal operation
+2025-03-18 15:40:19.287784,pod-2,monitoring,CrashLoopBackOff,2,1.3475678030257827,417,Error: Process exited with code 1
+2025-03-18 17:16:19.287784,pod-9,default,CrashLoopBackOff,2,1.0744178028453641,265,Normal operation
+2025-03-18 19:35:19.287784,pod-2,kube-system,Running,3,0.6486745118520183,190,Error: Process exited with code 1
+2025-03-18 20:19:19.287784,pod-11,kube-system,Failed,2,1.717771364820391,316,Error: Process exited with code 1
+2025-03-18 20:41:19.287784,pod-20,kube-system,Failed,8,0.33938289876884187,493,Normal operation
+2025-03-18 21:48:19.287784,pod-17,kube-system,Running,10,1.6082784769840797,431,Error: Process exited with code 1
+2025-03-18 22:59:19.287784,pod-1,kube-system,Failed,4,2.333801155038314,98,Normal operation
+2025-03-18 23:00:19.287784,pod-6,kube-system,Running,5,0.9442526532136424,358,Normal operation
+2025-03-18 23:16:19.287784,pod-14,monitoring,Failed,2,0.7177617229195754,232,Error: Process exited with code 1
+2025-03-19 00:11:19.287784,pod-16,monitoring,Running,1,0.12858879739888582,408,Error: Process exited with code 1
+2025-03-19 01:00:19.287784,pod-19,monitoring,Running,0,2.4103079055741405,310,Normal operation
+2025-03-19 01:46:19.287784,pod-11,kube-system,Running,3,1.9663954214460537,230,Error: Process exited with code 1
+2025-03-19 02:26:19.287784,pod-15,monitoring,Running,7,1.7473410800229285,456,Error: Process exited with code 1
+2025-03-19 02:43:19.287784,pod-4,monitoring,CrashLoopBackOff,3,1.244072797309731,467,Error: Process exited with code 1
+2025-03-19 03:37:19.287784,pod-2,default,Running,1,0.7996973927818848,394,Normal operation
+2025-03-19 03:52:19.287784,pod-19,kube-system,CrashLoopBackOff,2,1.207366533433607,123,Normal operation
+2025-03-19 04:58:19.287784,pod-15,kube-system,Running,5,1.2436366885926684,306,Error: Process exited with code 1
+2025-03-19 04:58:19.287784,pod-20,default,CrashLoopBackOff,2,1.499400678830382,182,Normal operation
+2025-03-19 05:41:19.287784,pod-12,kube-system,Running,6,0.9722340035496622,401,Normal operation
+2025-03-19 05:52:19.287784,pod-16,default,CrashLoopBackOff,8,1.0355537694970007,129,Error: Process exited with code 1
+2025-03-19 07:27:19.287784,pod-14,default,Running,3,0.577638655226098,65,Normal operation
+2025-03-19 08:01:19.287784,pod-2,kube-system,Running,2,2.439156308715809,393,Error: Process exited with code 1
+2025-03-19 08:49:19.287784,pod-18,kube-system,Running,10,0.7178318752263185,154,Normal operation
+2025-03-19 09:34:19.287784,pod-17,default,Running,2,1.0483915292472992,87,Error: Process exited with code 1
+2025-03-19 09:44:19.287784,pod-7,kube-system,Running,9,0.8074801236401854,431,Error: Process exited with code 1
+2025-03-19 10:28:19.287784,pod-6,kube-system,CrashLoopBackOff,2,0.5037194104629462,348,Normal operation
+2025-03-19 11:16:19.287784,pod-19,monitoring,Running,3,0.6977339737286544,365,Normal operation
+2025-03-19 11:25:19.287784,pod-9,monitoring,Running,2,1.7796013833595397,472,Normal operation
+2025-03-19 12:31:19.287784,pod-1,default,Running,5,1.4095167243115785,435,Error: Process exited with code 1
+2025-03-19 12:36:19.287784,pod-8,monitoring,CrashLoopBackOff,4,2.477542861461205,490,Error: Process exited with code 1
+2025-03-19 14:07:19.287784,pod-8,default,Running,9,1.0026473373597546,425,Error: Process exited with code 1
+2025-03-19 16:26:19.287784,pod-6,monitoring,CrashLoopBackOff,7,1.3789981805756917,96,Normal operation
+2025-03-19 16:26:19.287784,pod-18,default,Running,4,0.7446545003793147,87,Error: Process exited with code 1
+2025-03-19 17:18:19.287784,pod-16,kube-system,Running,2,0.4634425223366957,268,Normal operation
+2025-03-19 17:45:19.287784,pod-19,default,Running,5,1.5327828540497517,155,Error: Process exited with code 1
+2025-03-19 17:50:19.287784,pod-1,monitoring,Failed,7,1.5353301964578845,143,Error: Process exited with code 1
+2025-03-19 18:11:19.287784,pod-17,kube-system,Failed,6,1.056035951701091,497,Normal operation
+2025-03-19 20:23:19.287784,pod-18,default,Running,6,1.177277895282588,373,Error: Process exited with code 1
+2025-03-19 20:44:19.287784,pod-12,default,Running,6,0.9389142865480458,358,Error: Process exited with code 1
+2025-03-19 20:54:19.287784,pod-17,default,Running,5,0.7798241589236019,283,Error: Process exited with code 1
+2025-03-19 21:54:19.287784,pod-17,kube-system,CrashLoopBackOff,1,2.186927227550602,373,Normal operation
+2025-03-19 22:46:19.287784,pod-14,kube-system,Running,9,1.5275996008932449,96,Normal operation
+2025-03-19 23:20:19.287784,pod-10,kube-system,Running,5,1.0708472093292745,473,Normal operation
+2025-03-20 00:03:19.287784,pod-6,default,Running,3,0.446988113296484,477,Normal operation
+2025-03-20 00:33:19.287784,pod-18,monitoring,Running,8,1.9729359565290618,79,Error: Process exited with code 1
+2025-03-20 02:01:19.287784,pod-9,kube-system,Running,1,1.6013795275022715,428,Error: Process exited with code 1
+2025-03-20 02:50:19.287784,pod-4,kube-system,Running,3,2.3340049032257646,82,Normal operation
+2025-03-20 03:02:19.287784,pod-19,monitoring,Running,0,1.436414954976058,115,Normal operation
+2025-03-20 04:51:19.287784,pod-5,default,Running,9,1.0935190808128858,459,Normal operation
+2025-03-20 07:23:19.287784,pod-2,default,Running,2,2.2784575357151837,263,Error: Process exited with code 1
+2025-03-20 07:42:19.287784,pod-8,default,Running,0,1.1149575787977863,81,Normal operation
+2025-03-20 08:13:19.287784,pod-5,monitoring,Running,9,1.6812943561763187,134,Normal operation
+2025-03-20 08:40:19.287784,pod-7,monitoring,Running,8,1.2427927467321576,469,Error: Process exited with code 1
+2025-03-20 09:07:19.287784,pod-3,monitoring,CrashLoopBackOff,3,0.23525814530464287,160,Error: Process exited with code 1
+2025-03-20 09:07:19.287784,pod-15,monitoring,Running,8,1.0773717895849886,275,Normal operation
+2025-03-20 11:39:19.287784,pod-19,kube-system,Running,10,0.7459867086760761,54,Normal operation
+2025-03-20 12:56:19.287784,pod-7,monitoring,CrashLoopBackOff,6,2.2046858905254436,174,Normal operation
+2025-03-20 13:28:19.287784,pod-14,kube-system,Running,1,1.7283205370663128,102,Normal operation
+2025-03-20 13:33:19.287784,pod-12,default,Running,2,2.4899635213743663,410,Normal operation
+2025-03-20 14:01:19.287784,pod-12,monitoring,CrashLoopBackOff,1,0.4409457614755927,201,Normal operation
+2025-03-20 14:45:19.287784,pod-7,default,Running,6,1.9132177154729024,248,Normal operation
+2025-03-20 14:57:19.287784,pod-4,monitoring,Failed,5,1.4204425163472054,190,Normal operation
+2025-03-20 14:58:19.287784,pod-9,kube-system,Running,5,0.5939373605847883,144,Error: Process exited with code 1
+2025-03-20 15:21:19.287784,pod-12,kube-system,CrashLoopBackOff,3,2.4307572442110823,483,Normal operation
+2025-03-20 17:20:19.287784,pod-13,kube-system,Pending,3,1.5111117633009001,422,Error: Process exited with code 1
+2025-03-20 18:03:19.287784,pod-3,kube-system,Running,8,2.441267651071242,113,Error: Process exited with code 1
+2025-03-20 18:10:19.287784,pod-6,monitoring,CrashLoopBackOff,7,2.4151892819301968,392,Error: Process exited with code 1
+2025-03-20 18:57:19.287784,pod-7,kube-system,Failed,1,0.18460509306699963,408,Normal operation
+2025-03-20 19:05:19.287784,pod-17,monitoring,Running,6,0.9659368316357035,171,Error: Process exited with code 1
+2025-03-20 19:37:19.287784,pod-15,kube-system,Running,3,0.36344880762241405,119,Error: Process exited with code 1
+2025-03-20 20:43:19.287784,pod-11,kube-system,Pending,6,2.055876249392662,399,Normal operation
+2025-03-20 21:00:19.287784,pod-11,default,CrashLoopBackOff,10,0.7122055262118372,195,Error: Process exited with code 1
+2025-03-20 21:23:19.287784,pod-5,kube-system,CrashLoopBackOff,4,1.1700104210659508,319,Error: Process exited with code 1
+2025-03-20 22:53:19.287784,pod-1,monitoring,Running,8,2.007942142586731,278,Normal operation
+2025-03-20 23:15:19.287784,pod-8,kube-system,CrashLoopBackOff,4,0.9568964844272259,322,Normal operation
+2025-03-21 00:18:19.287784,pod-15,default,Running,2,1.8994407143345962,283,Error: Process exited with code 1
+2025-03-21 00:30:19.287784,pod-2,default,Running,6,0.6641238754357424,224,Normal operation
+2025-03-21 02:53:19.287784,pod-1,kube-system,Running,10,1.664132516430172,337,Error: Process exited with code 1
+2025-03-21 03:10:19.287784,pod-2,monitoring,CrashLoopBackOff,3,1.1438679513800438,234,Normal operation
+2025-03-21 03:15:19.287784,pod-15,default,Running,5,1.820547172730447,471,Normal operation
+2025-03-21 04:22:19.287784,pod-9,kube-system,Running,4,1.6246017904665175,296,Normal operation
+2025-03-21 05:57:19.287784,pod-15,kube-system,CrashLoopBackOff,9,1.8218719208233247,52,Error: Process exited with code 1
+2025-03-21 06:11:19.287784,pod-11,default,Running,2,1.7305090202853197,256,Normal operation
+2025-03-21 06:14:19.287784,pod-14,default,Running,2,1.2109387968617635,66,Error: Process exited with code 1
+2025-03-21 06:55:19.287784,pod-13,kube-system,Running,6,0.27729744837782067,486,Normal operation
+2025-03-21 07:59:19.287784,pod-4,default,Running,4,1.7591620462823525,379,Error: Process exited with code 1
+2025-03-21 08:21:19.287784,pod-14,default,Running,7,0.45175239851120996,370,Normal operation
+2025-03-21 08:28:19.287784,pod-20,monitoring,Running,9,1.0156634560047038,319,Error: Process exited with code 1
+2025-03-21 08:43:19.287784,pod-7,default,Running,4,1.782873238526396,291,Error: Process exited with code 1
+2025-03-21 09:03:19.287784,pod-15,monitoring,Running,3,2.4014372677921414,227,Error: Process exited with code 1
+2025-03-21 09:56:19.287784,pod-14,default,Failed,5,1.5766528536200115,248,Normal operation
+2025-03-21 10:13:19.287784,pod-11,kube-system,CrashLoopBackOff,10,0.6065952560325794,315,Error: Process exited with code 1
+2025-03-21 10:17:19.287784,pod-6,kube-system,Running,8,0.7243034307357121,423,Error: Process exited with code 1
+2025-03-21 11:32:19.287784,pod-17,default,Running,0,2.215331669142607,251,Error: Process exited with code 1
+2025-03-21 11:57:19.287784,pod-1,kube-system,Running,4,1.8654449313601036,282,Normal operation
+2025-03-21 13:11:19.287784,pod-2,default,Running,9,0.9524114228469083,269,Normal operation
+2025-03-21 13:33:19.287784,pod-13,kube-system,Running,0,2.2700354574544463,278,Normal operation
+2025-03-21 14:45:19.287784,pod-13,default,Failed,2,2.0588893334730054,165,Normal operation
+2025-03-21 14:52:19.287784,pod-11,default,CrashLoopBackOff,6,1.7649714881976033,334,Normal operation
+2025-03-21 15:28:19.287784,pod-8,kube-system,Running,8,0.9948424008096087,266,Normal operation
+2025-03-21 15:53:19.287784,pod-12,default,Running,6,0.9478299352877722,382,Normal operation
+2025-03-21 16:23:19.287784,pod-8,default,Failed,0,1.819851918906245,150,Error: Process exited with code 1
+2025-03-21 20:23:19.287784,pod-12,default,Running,3,2.0393921104062924,308,Normal operation
+2025-03-21 20:58:19.287784,pod-20,default,Running,4,2.232280527039432,72,Normal operation
+2025-03-21 21:08:19.287784,pod-11,monitoring,Running,0,2.2522479560919284,209,Error: Process exited with code 1
+2025-03-21 22:11:19.287784,pod-11,default,Running,1,2.4112230097145924,70,Error: Process exited with code 1
+2025-03-21 22:16:19.287784,pod-15,kube-system,Pending,3,1.828990808856912,189,Error: Process exited with code 1
+2025-03-21 23:50:19.287784,pod-17,kube-system,Running,5,1.4092444962169361,239,Error: Process exited with code 1
+2025-03-21 23:51:19.287784,pod-17,kube-system,Running,8,1.0149154543260193,329,Normal operation
+2025-03-22 00:02:19.287784,pod-3,kube-system,Running,6,1.316821553711619,328,Normal operation
+2025-03-22 00:06:19.287784,pod-8,kube-system,Running,1,0.30437440234270097,339,Normal operation
+2025-03-22 00:23:19.287784,pod-20,default,CrashLoopBackOff,2,1.2209693705354523,124,Normal operation
+2025-03-22 03:12:19.287784,pod-14,monitoring,Running,3,0.2772175046370952,482,Error: Process exited with code 1
+2025-03-22 03:30:19.287784,pod-10,default,Failed,2,2.472461812636988,96,Normal operation
+2025-03-22 03:45:19.287784,pod-18,monitoring,Running,10,0.4327981799139231,378,Normal operation
+2025-03-22 04:26:19.287784,pod-16,monitoring,Running,4,2.19167802278481,246,Error: Process exited with code 1
+2025-03-22 04:49:19.287784,pod-7,monitoring,Running,2,1.6949640520219464,300,Error: Process exited with code 1
+2025-03-22 04:54:19.287784,pod-2,default,Running,8,0.2161309140138897,127,Normal operation
+2025-03-22 05:37:19.287784,pod-3,monitoring,Failed,8,0.9073484950951741,495,Normal operation
+2025-03-22 06:39:19.287784,pod-1,monitoring,Running,8,0.7223437944852311,436,Error: Process exited with code 1
+2025-03-22 07:27:19.287784,pod-14,monitoring,Running,10,0.8866997538589549,89,Error: Process exited with code 1
+2025-03-22 08:26:19.287784,pod-13,kube-system,Running,0,0.71896764476572,167,Error: Process exited with code 1
+2025-03-22 08:27:19.287784,pod-10,monitoring,Running,5,2.124377090363818,447,Error: Process exited with code 1
+2025-03-22 08:51:19.287784,pod-6,kube-system,Running,8,2.0554110599038324,464,Error: Process exited with code 1
+2025-03-22 08:58:19.287784,pod-15,kube-system,CrashLoopBackOff,1,2.0161546298683666,232,Error: Process exited with code 1
+2025-03-22 09:01:19.287784,pod-16,monitoring,Running,0,2.4394135051656054,463,Normal operation
+2025-03-22 09:14:19.287784,pod-9,default,Running,1,2.3290970254574073,354,Error: Process exited with code 1
+2025-03-22 10:02:19.287784,pod-17,default,Running,3,2.0415327942178565,51,Normal operation
+2025-03-22 15:04:19.287784,pod-9,default,Running,10,2.0069048339756055,384,Error: Process exited with code 1
+2025-03-22 16:10:19.287784,pod-20,monitoring,Running,9,1.0184307653059528,410,Normal operation
+2025-03-22 17:12:19.287784,pod-3,kube-system,Running,8,2.2587753003629647,177,Normal operation
+2025-03-22 17:30:19.287784,pod-16,default,Failed,1,0.7445512750861282,267,Error: Process exited with code 1
+2025-03-22 18:08:19.287784,pod-12,kube-system,Running,4,0.7666899921094842,325,Normal operation
+2025-03-22 18:28:19.287784,pod-8,default,Running,5,1.2781284310158805,111,Error: Process exited with code 1
+2025-03-22 21:07:19.287784,pod-7,kube-system,CrashLoopBackOff,0,1.8902294953137992,185,Normal operation
+2025-03-22 21:18:19.287784,pod-8,monitoring,Running,8,2.1138412964390465,260,Error: Process exited with code 1
+2025-03-22 23:23:19.287784,pod-14,kube-system,Running,3,2.0742728258465597,256,Error: Process exited with code 1
+2025-03-22 23:36:19.287784,pod-4,kube-system,Failed,7,1.1244938411324124,104,Error: Process exited with code 1
+2025-03-22 23:51:19.287784,pod-1,default,Running,6,2.2153549532645544,331,Normal operation
+2025-03-22 23:51:19.287784,pod-9,kube-system,CrashLoopBackOff,8,1.7589528662417486,128,Error: Process exited with code 1
+2025-03-23 02:30:19.287784,pod-6,monitoring,CrashLoopBackOff,8,0.5404322203263126,160,Error: Process exited with code 1
+2025-03-23 03:12:19.287784,pod-14,default,Failed,6,2.0792820655827633,297,Normal operation
+2025-03-23 04:07:19.287784,pod-5,monitoring,Running,2,0.7565545082467887,187,Error: Process exited with code 1
+2025-03-23 04:16:19.287784,pod-7,kube-system,Running,10,2.475223017223399,70,Normal operation
+2025-03-23 04:36:19.287784,pod-17,monitoring,CrashLoopBackOff,9,2.1306658376640994,179,Normal operation
+2025-03-23 04:37:19.287784,pod-12,kube-system,Running,8,0.7802784116100342,341,Normal operation
+2025-03-23 06:27:19.287784,pod-6,kube-system,CrashLoopBackOff,4,2.204322525152496,337,Normal operation
+2025-03-23 07:20:19.287784,pod-18,monitoring,Running,9,1.2211668986303252,128,Error: Process exited with code 1
+2025-03-23 09:21:19.287784,pod-19,default,Running,6,0.5560898270987471,415,Error: Process exited with code 1
+2025-03-23 09:21:19.287784,pod-4,monitoring,Running,0,1.2503034450398627,310,Normal operation
+2025-03-23 09:51:19.287784,pod-1,kube-system,Running,10,0.8204462838796007,69,Error: Process exited with code 1
+2025-03-23 10:26:19.287784,pod-4,default,Running,1,1.6071051793480298,421,Error: Process exited with code 1
+2025-03-23 10:29:19.287784,pod-10,kube-system,Running,2,1.5261049108829432,443,Error: Process exited with code 1
+2025-03-23 11:10:19.287784,pod-10,default,Running,5,0.2710376010163979,389,Normal operation
+2025-03-23 11:22:19.287784,pod-17,monitoring,Running,1,1.5548908073750034,298,Error: Process exited with code 1
+2025-03-23 11:56:19.287784,pod-12,kube-system,Running,9,2.0371965584906992,352,Error: Process exited with code 1
+2025-03-23 12:17:19.287784,pod-13,default,CrashLoopBackOff,9,2.2347579414327288,75,Error: Process exited with code 1
+2025-03-23 13:27:19.287784,pod-2,monitoring,Running,8,1.6934727807788568,166,Error: Process exited with code 1
+2025-03-23 15:45:19.287784,pod-16,kube-system,Running,10,0.5961565893055429,215,Error: Process exited with code 1
+2025-03-23 15:50:19.287784,pod-17,monitoring,Running,10,1.892808162925984,351,Error: Process exited with code 1
+2025-03-23 16:01:19.287784,pod-2,kube-system,Running,6,1.376020853887599,289,Error: Process exited with code 1
+2025-03-23 16:11:19.287784,pod-9,default,Failed,7,1.4531499157486745,235,Normal operation
+2025-03-23 16:33:19.287784,pod-4,default,Running,3,0.3940094535187991,113,Normal operation
+2025-03-23 17:33:19.287784,pod-20,monitoring,Running,5,1.2523415147370824,290,Normal operation
+2025-03-23 18:45:19.287784,pod-10,default,Running,10,1.5133283725914988,115,Normal operation
+2025-03-23 18:54:19.287784,pod-9,kube-system,Running,6,1.2365481068269988,347,Normal operation
+2025-03-23 19:44:19.287784,pod-19,default,CrashLoopBackOff,8,0.6485077797921246,329,Normal operation
+2025-03-23 20:13:19.287784,pod-5,kube-system,CrashLoopBackOff,6,1.9643399496166825,250,Normal operation
+2025-03-23 20:23:19.287784,pod-5,kube-system,Running,3,2.03780776374874,164,Error: Process exited with code 1
+2025-03-23 21:30:19.287784,pod-3,default,CrashLoopBackOff,5,2.237928342561385,418,Error: Process exited with code 1
+2025-03-23 21:51:19.287784,pod-6,kube-system,Running,10,1.0735688148099256,469,Normal operation
+2025-03-23 21:53:19.287784,pod-13,kube-system,Running,5,1.4649693986410999,492,Normal operation
+2025-03-24 00:44:19.287784,pod-7,kube-system,CrashLoopBackOff,7,0.5706796222722409,491,Normal operation
+2025-03-24 01:20:19.287784,pod-5,kube-system,CrashLoopBackOff,4,1.2766319468175236,273,Error: Process exited with code 1
+2025-03-24 01:27:19.287784,pod-9,monitoring,Running,2,0.13362613527748463,350,Normal operation
+2025-03-24 02:10:19.287784,pod-13,default,Running,5,1.0471480386008492,439,Error: Process exited with code 1
+2025-03-24 02:38:19.287784,pod-11,default,Running,2,1.3168671380852544,151,Normal operation
+2025-03-24 02:44:19.287784,pod-7,monitoring,Running,7,2.3156241899913432,337,Error: Process exited with code 1
+2025-03-24 03:47:19.287784,pod-3,monitoring,Running,6,1.0023860858752083,254,Error: Process exited with code 1
+2025-03-24 03:54:19.287784,pod-10,monitoring,Running,4,0.5427279105464243,259,Error: Process exited with code 1
+2025-03-24 04:51:19.287784,pod-8,monitoring,Running,8,1.7860567979102977,448,Error: Process exited with code 1
+2025-03-24 05:36:19.287784,pod-10,monitoring,Running,0,1.4177390692081653,444,Normal operation
+2025-03-24 05:40:19.287784,pod-2,kube-system,Running,3,1.7916000280501576,365,Normal operation
+2025-03-24 07:23:19.287784,pod-17,monitoring,CrashLoopBackOff,7,0.9552745608922543,368,Normal operation
+2025-03-24 08:07:19.287784,pod-14,default,Running,9,1.2368567235122545,228,Error: Process exited with code 1
+2025-03-24 08:34:19.287784,pod-16,kube-system,Running,0,1.6036433773760006,168,Normal operation
+2025-03-24 09:18:19.287784,pod-2,kube-system,Running,1,2.4355447697413415,417,Normal operation
+2025-03-24 09:38:19.287784,pod-13,kube-system,CrashLoopBackOff,9,0.9907677010608382,161,Error: Process exited with code 1
+2025-03-24 10:01:19.287784,pod-20,default,Running,8,1.1517551352572022,185,Normal operation
+2025-03-24 11:18:19.287784,pod-19,default,CrashLoopBackOff,9,2.239830302463178,352,Normal operation
+2025-03-24 13:33:19.287784,pod-4,kube-system,Running,0,2.2555746704825683,184,Error: Process exited with code 1
+2025-03-24 13:44:19.287784,pod-20,monitoring,CrashLoopBackOff,6,0.791117534650455,84,Error: Process exited with code 1
+2025-03-24 13:45:19.287784,pod-20,kube-system,Running,5,0.676139952105557,171,Error: Process exited with code 1
+2025-03-24 14:28:19.287784,pod-1,kube-system,Running,2,0.5232583575014284,168,Normal operation
+2025-03-24 15:46:19.287784,pod-12,monitoring,CrashLoopBackOff,0,2.394488846414186,255,Normal operation
+2025-03-24 16:00:19.287784,pod-2,monitoring,Running,7,0.37575981244671375,166,Error: Process exited with code 1
+2025-03-24 16:04:19.287784,pod-10,default,Running,8,1.9899051753054169,322,Normal operation
+2025-03-24 16:07:19.287784,pod-19,default,Running,8,1.7862670186018976,218,Error: Process exited with code 1
+2025-03-24 16:09:19.287784,pod-3,monitoring,Running,2,1.2385673118084068,72,Error: Process exited with code 1
+2025-03-24 16:14:19.287784,pod-1,kube-system,Running,5,2.3798680856179786,486,Error: Process exited with code 1
+2025-03-24 16:15:19.287784,pod-7,monitoring,Running,5,0.10801658104814962,149,Error: Process exited with code 1
+2025-03-24 16:36:19.287784,pod-3,default,Pending,9,1.086886636443207,482,Error: Process exited with code 1
+2025-03-24 17:58:19.287784,pod-18,monitoring,CrashLoopBackOff,10,1.5390960915550715,499,Normal operation
+2025-03-24 18:01:19.287784,pod-6,default,Running,1,0.8047509687245271,378,Error: Process exited with code 1
+2025-03-24 18:06:19.287784,pod-10,kube-system,Running,2,0.27320991490464597,329,Error: Process exited with code 1
